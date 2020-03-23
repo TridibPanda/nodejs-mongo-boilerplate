@@ -1,0 +1,640 @@
+alternativestemp:{
+}SEPARATOR
+authtemp:{
+473,538d472
+< Jun 27 23:50:01 ip-172-31-24-34 CRON[12095]: pam_unix(cron:session): session closed for user root
+< Jun 28 00:17:01 ip-172-31-24-34 CRON[12148]: pam_unix(cron:session): session opened for user root by (uid=0)
+< Jun 28 00:17:01 ip-172-31-24-34 CRON[12148]: pam_unix(cron:session): session closed for user root
+< Jun 28 01:17:01 ip-172-31-24-34 CRON[12155]: pam_unix(cron:session): session opened for user root by (uid=0)
+< Jun 28 01:17:01 ip-172-31-24-34 CRON[12155]: pam_unix(cron:session): session closed for user root
+< Jun 28 02:17:01 ip-172-31-24-34 CRON[12162]: pam_unix(cron:session): session opened for user root by (uid=0)
+< Jun 28 02:17:01 ip-172-31-24-34 CRON[12162]: pam_unix(cron:session): session closed for user root
+< Jun 28 03:17:01 ip-172-31-24-34 CRON[12223]: pam_unix(cron:session): session opened for user root by (uid=0)
+< Jun 28 03:17:01 ip-172-31-24-34 CRON[12223]: pam_unix(cron:session): session closed for user root
+< Jun 28 04:17:01 ip-172-31-24-34 CRON[12231]: pam_unix(cron:session): session opened for user root by (uid=0)
+< Jun 28 04:17:01 ip-172-31-24-34 CRON[12231]: pam_unix(cron:session): session closed for user root
+< Jun 28 04:24:01 ip-172-31-24-34 CRON[12235]: pam_unix(cron:session): session opened for user root by (uid=0)
+< Jun 28 04:24:01 ip-172-31-24-34 CRON[12235]: pam_unix(cron:session): session closed for user root
+< Jun 28 05:07:51 ip-172-31-24-34 sshd[12241]: Accepted publickey for ubuntu from 111.93.169.90 port 50676 ssh2: RSA SHA256:56LSrLL7YDOn+gHvamzhlv5l4yp8YWk0VEbgx5rdCzM
+< Jun 28 05:07:51 ip-172-31-24-34 sshd[12241]: pam_unix(sshd:session): session opened for user ubuntu by (uid=0)
+< Jun 28 05:07:51 ip-172-31-24-34 systemd: pam_unix(systemd-user:session): session opened for user ubuntu by (uid=0)
+< Jun 28 05:07:51 ip-172-31-24-34 systemd-logind[826]: New session 184 of user ubuntu.
+< Jun 28 05:17:01 ip-172-31-24-34 CRON[12383]: pam_unix(cron:session): session opened for user root by (uid=0)
+< Jun 28 05:17:01 ip-172-31-24-34 CRON[12383]: pam_unix(cron:session): session closed for user root
+< Jun 28 05:28:02 ip-172-31-24-34 sudo:   ubuntu : TTY=pts/0 ; PWD=/script ; USER=root ; COMMAND=/bin/su
+< Jun 28 05:28:02 ip-172-31-24-34 sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+< Jun 28 05:28:02 ip-172-31-24-34 su[12407]: Successful su for root by root
+< Jun 28 05:28:02 ip-172-31-24-34 su[12407]: + /dev/pts/0 root:root
+< Jun 28 05:28:02 ip-172-31-24-34 su[12407]: pam_unix(su:session): session opened for user root by ubuntu(uid=0)
+< Jun 28 05:28:02 ip-172-31-24-34 su[12407]: pam_systemd(su:session): Cannot create session: Already running in a session
+< Jun 28 06:17:01 ip-172-31-24-34 CRON[12719]: pam_unix(cron:session): session opened for user root by (uid=0)
+< Jun 28 06:17:01 ip-172-31-24-34 CRON[12719]: pam_unix(cron:session): session closed for user root
+< Jun 28 06:25:01 ip-172-31-24-34 CRON[12723]: pam_unix(cron:session): session opened for user root by (uid=0)
+< Jun 28 06:25:03 ip-172-31-24-34 CRON[12723]: pam_unix(cron:session): session closed for user root
+< Jun 28 06:59:24 ip-172-31-24-34 sshd[13226]: Accepted publickey for ubuntu from 111.93.169.90 port 51246 ssh2: RSA SHA256:56LSrLL7YDOn+gHvamzhlv5l4yp8YWk0VEbgx5rdCzM
+< Jun 28 06:59:24 ip-172-31-24-34 sshd[13226]: pam_unix(sshd:session): session opened for user ubuntu by (uid=0)
+< Jun 28 06:59:24 ip-172-31-24-34 systemd-logind[826]: New session 189 of user ubuntu.
+< Jun 28 06:59:32 ip-172-31-24-34 sshd[13335]: Accepted publickey for ubuntu from 111.93.169.90 port 51248 ssh2: RSA SHA256:56LSrLL7YDOn+gHvamzhlv5l4yp8YWk0VEbgx5rdCzM
+< Jun 28 06:59:32 ip-172-31-24-34 sshd[13335]: pam_unix(sshd:session): session opened for user ubuntu by (uid=0)
+< Jun 28 06:59:32 ip-172-31-24-34 systemd-logind[826]: New session 190 of user ubuntu.
+< Jun 28 07:01:13 ip-172-31-24-34 sshd[13335]: pam_unix(sshd:session): session closed for user ubuntu
+< Jun 28 07:01:13 ip-172-31-24-34 systemd-logind[826]: Removed session 190.
+< Jun 28 07:17:01 ip-172-31-24-34 CRON[13510]: pam_unix(cron:session): session opened for user root by (uid=0)
+< Jun 28 07:17:01 ip-172-31-24-34 CRON[13510]: pam_unix(cron:session): session closed for user root
+< Jun 28 07:21:27 ip-172-31-24-34 sshd[13595]: Accepted publickey for ubuntu from 111.93.169.90 port 51367 ssh2: RSA SHA256:56LSrLL7YDOn+gHvamzhlv5l4yp8YWk0VEbgx5rdCzM
+< Jun 28 07:21:27 ip-172-31-24-34 sshd[13595]: pam_unix(sshd:session): session opened for user ubuntu by (uid=0)
+< Jun 28 07:21:27 ip-172-31-24-34 systemd-logind[826]: New session 192 of user ubuntu.
+< Jun 28 07:22:31 ip-172-31-24-34 sshd[13595]: pam_unix(sshd:session): session closed for user ubuntu
+< Jun 28 07:22:31 ip-172-31-24-34 systemd-logind[826]: Removed session 192.
+< Jun 28 08:17:01 ip-172-31-24-34 CRON[13683]: pam_unix(cron:session): session opened for user root by (uid=0)
+< Jun 28 08:17:01 ip-172-31-24-34 CRON[13683]: pam_unix(cron:session): session closed for user root
+< Jun 28 09:17:01 ip-172-31-24-34 CRON[14064]: pam_unix(cron:session): session opened for user root by (uid=0)
+< Jun 28 09:17:01 ip-172-31-24-34 CRON[14064]: pam_unix(cron:session): session closed for user root
+< Jun 28 09:33:31 ip-172-31-24-34 sshd[13226]: pam_unix(sshd:session): session closed for user ubuntu
+< Jun 28 09:33:31 ip-172-31-24-34 systemd-logind[826]: Removed session 189.
+< Jun 28 09:35:42 ip-172-31-24-34 sshd[12241]: pam_unix(sshd:session): session closed for user ubuntu
+< Jun 28 09:35:42 ip-172-31-24-34 su[12407]: pam_unix(su:session): session closed for user root
+< Jun 28 09:35:42 ip-172-31-24-34 sudo: pam_unix(sudo:session): session closed for user root
+< Jun 28 09:35:42 ip-172-31-24-34 systemd-logind[826]: Removed session 184.
+< Jun 28 10:13:52 ip-172-31-24-34 sshd[14074]: Accepted publickey for ubuntu from 111.93.169.90 port 53189 ssh2: RSA SHA256:56LSrLL7YDOn+gHvamzhlv5l4yp8YWk0VEbgx5rdCzM
+< Jun 28 10:13:52 ip-172-31-24-34 sshd[14074]: pam_unix(sshd:session): session opened for user ubuntu by (uid=0)
+< Jun 28 10:13:52 ip-172-31-24-34 systemd: pam_unix(systemd-user:session): session opened for user ubuntu by (uid=0)
+< Jun 28 10:13:52 ip-172-31-24-34 systemd-logind[826]: New session 195 of user ubuntu.
+< Jun 28 10:14:19 ip-172-31-24-34 sudo:   ubuntu : TTY=pts/0 ; PWD=/script ; USER=root ; COMMAND=/bin/su
+< Jun 28 10:14:19 ip-172-31-24-34 sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+< Jun 28 10:14:19 ip-172-31-24-34 su[14224]: Successful su for root by root
+< Jun 28 10:14:19 ip-172-31-24-34 su[14224]: + /dev/pts/0 root:root
+< Jun 28 10:14:19 ip-172-31-24-34 su[14224]: pam_unix(su:session): session opened for user root by ubuntu(uid=0)
+< Jun 28 10:14:19 ip-172-31-24-34 su[14224]: pam_systemd(su:session): Cannot create session: Already running in a session
+< Jun 28 10:17:01 ip-172-31-24-34 CRON[14237]: pam_unix(cron:session): session opened for user root by (uid=0)
+< Jun 28 10:17:01 ip-172-31-24-34 CRON[14237]: pam_unix(cron:session): session closed for user root
+}SEPARATOR
+crontemp:{
+379,514d378
+< Jun 27 08:15:21 ip-172-31-24-34 systemd-timesyncd[522]: Network configuration changed, trying to establish connection.
+< Jun 27 08:15:21 ip-172-31-24-34 systemd-timesyncd[522]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).
+< Jun 27 08:17:01 ip-172-31-24-34 CRON[10641]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+< Jun 27 08:45:20 ip-172-31-24-34 systemd-timesyncd[522]: Network configuration changed, trying to establish connection.
+< Jun 27 08:45:20 ip-172-31-24-34 systemd-timesyncd[522]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).
+< Jun 27 09:15:20 ip-172-31-24-34 systemd-timesyncd[522]: Network configuration changed, trying to establish connection.
+< Jun 27 09:15:20 ip-172-31-24-34 systemd-timesyncd[522]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).
+< Jun 27 09:17:01 ip-172-31-24-34 CRON[10990]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+< Jun 27 09:45:20 ip-172-31-24-34 systemd-timesyncd[522]: Network configuration changed, trying to establish connection.
+< Jun 27 09:45:20 ip-172-31-24-34 systemd-timesyncd[522]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).
+< Jun 27 10:15:19 ip-172-31-24-34 systemd-timesyncd[522]: Network configuration changed, trying to establish connection.
+< Jun 27 10:15:19 ip-172-31-24-34 systemd-timesyncd[522]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).
+< Jun 27 10:17:01 ip-172-31-24-34 CRON[11273]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+< Jun 27 10:45:18 ip-172-31-24-34 systemd-timesyncd[522]: Network configuration changed, trying to establish connection.
+< Jun 27 10:45:18 ip-172-31-24-34 systemd-timesyncd[522]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).
+< Jun 27 11:15:18 ip-172-31-24-34 systemd-timesyncd[522]: Network configuration changed, trying to establish connection.
+< Jun 27 11:15:18 ip-172-31-24-34 systemd-timesyncd[522]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).
+< Jun 27 11:17:01 ip-172-31-24-34 CRON[11283]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+< Jun 27 11:45:17 ip-172-31-24-34 systemd-timesyncd[522]: Network configuration changed, trying to establish connection.
+< Jun 27 11:45:18 ip-172-31-24-34 systemd-timesyncd[522]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).
+< Jun 27 12:15:16 ip-172-31-24-34 systemd-timesyncd[522]: Network configuration changed, trying to establish connection.
+< Jun 27 12:15:17 ip-172-31-24-34 systemd-timesyncd[522]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).
+< Jun 27 12:17:01 ip-172-31-24-34 CRON[11290]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+< Jun 27 12:45:15 ip-172-31-24-34 systemd-timesyncd[522]: Network configuration changed, trying to establish connection.
+< Jun 27 12:45:16 ip-172-31-24-34 systemd-timesyncd[522]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).
+< Jun 27 13:15:14 ip-172-31-24-34 systemd-timesyncd[522]: Network configuration changed, trying to establish connection.
+< Jun 27 13:15:15 ip-172-31-24-34 systemd-timesyncd[522]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).
+< Jun 27 13:17:01 ip-172-31-24-34 CRON[11299]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+< Jun 27 13:45:13 ip-172-31-24-34 systemd-timesyncd[522]: Network configuration changed, trying to establish connection.
+< Jun 27 13:45:14 ip-172-31-24-34 systemd-timesyncd[522]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).
+< Jun 27 14:15:12 ip-172-31-24-34 systemd-timesyncd[522]: Network configuration changed, trying to establish connection.
+< Jun 27 14:15:12 ip-172-31-24-34 systemd-timesyncd[522]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).
+< Jun 27 14:17:01 ip-172-31-24-34 CRON[11724]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+< Jun 27 14:45:12 ip-172-31-24-34 systemd-timesyncd[522]: Network configuration changed, trying to establish connection.
+< Jun 27 14:45:12 ip-172-31-24-34 systemd-timesyncd[522]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).
+< Jun 27 15:15:10 ip-172-31-24-34 systemd-timesyncd[522]: Network configuration changed, trying to establish connection.
+< Jun 27 15:15:11 ip-172-31-24-34 systemd-timesyncd[522]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).
+< Jun 27 15:17:01 ip-172-31-24-34 CRON[11734]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+< Jun 27 15:45:10 ip-172-31-24-34 systemd-timesyncd[522]: Network configuration changed, trying to establish connection.
+< Jun 27 15:45:10 ip-172-31-24-34 systemd-timesyncd[522]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).
+< Jun 27 16:15:09 ip-172-31-24-34 systemd-timesyncd[522]: Network configuration changed, trying to establish connection.
+< Jun 27 16:15:10 ip-172-31-24-34 systemd-timesyncd[522]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).
+< Jun 27 16:17:01 ip-172-31-24-34 CRON[11746]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+< Jun 27 16:45:08 ip-172-31-24-34 systemd-timesyncd[522]: Network configuration changed, trying to establish connection.
+< Jun 27 16:45:08 ip-172-31-24-34 systemd-timesyncd[522]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).
+< Jun 27 17:15:08 ip-172-31-24-34 systemd-timesyncd[522]: Network configuration changed, trying to establish connection.
+< Jun 27 17:15:08 ip-172-31-24-34 systemd-timesyncd[522]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).
+< Jun 27 17:17:01 ip-172-31-24-34 CRON[11755]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+< Jun 27 17:45:08 ip-172-31-24-34 systemd-timesyncd[522]: Network configuration changed, trying to establish connection.
+< Jun 27 17:45:08 ip-172-31-24-34 systemd-timesyncd[522]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).
+< Jun 27 18:15:06 ip-172-31-24-34 systemd-timesyncd[522]: Network configuration changed, trying to establish connection.
+< Jun 27 18:15:07 ip-172-31-24-34 systemd-timesyncd[522]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).
+< Jun 27 18:17:01 ip-172-31-24-34 CRON[11763]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+< Jun 27 18:45:05 ip-172-31-24-34 systemd-timesyncd[522]: Network configuration changed, trying to establish connection.
+< Jun 27 18:45:06 ip-172-31-24-34 systemd-timesyncd[522]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).
+< Jun 27 19:15:06 ip-172-31-24-34 systemd-timesyncd[522]: Network configuration changed, trying to establish connection.
+< Jun 27 19:15:06 ip-172-31-24-34 systemd-timesyncd[522]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).
+< Jun 27 19:17:01 ip-172-31-24-34 CRON[11770]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+< Jun 27 19:45:05 ip-172-31-24-34 systemd-timesyncd[522]: Network configuration changed, trying to establish connection.
+< Jun 27 19:45:05 ip-172-31-24-34 systemd-timesyncd[522]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).
+< Jun 27 20:15:04 ip-172-31-24-34 systemd-timesyncd[522]: Network configuration changed, trying to establish connection.
+< Jun 27 20:15:04 ip-172-31-24-34 systemd-timesyncd[522]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).
+< Jun 27 20:17:01 ip-172-31-24-34 CRON[11778]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+< Jun 27 20:45:04 ip-172-31-24-34 systemd-timesyncd[522]: Network configuration changed, trying to establish connection.
+< Jun 27 20:45:04 ip-172-31-24-34 systemd-timesyncd[522]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).
+< Jun 27 21:15:04 ip-172-31-24-34 systemd-timesyncd[522]: Network configuration changed, trying to establish connection.
+< Jun 27 21:15:05 ip-172-31-24-34 systemd-timesyncd[522]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).
+< Jun 27 21:17:01 ip-172-31-24-34 CRON[11854]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+< Jun 27 21:45:05 ip-172-31-24-34 systemd-timesyncd[522]: Network configuration changed, trying to establish connection.
+< Jun 27 21:45:05 ip-172-31-24-34 systemd-timesyncd[522]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).
+< Jun 27 22:15:04 ip-172-31-24-34 systemd-timesyncd[522]: Network configuration changed, trying to establish connection.
+< Jun 27 22:15:05 ip-172-31-24-34 systemd-timesyncd[522]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).
+< Jun 27 22:17:01 ip-172-31-24-34 CRON[11861]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+< Jun 27 22:45:03 ip-172-31-24-34 systemd-timesyncd[522]: Network configuration changed, trying to establish connection.
+< Jun 27 22:45:03 ip-172-31-24-34 systemd-timesyncd[522]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).
+< Jun 27 23:15:02 ip-172-31-24-34 systemd-timesyncd[522]: Network configuration changed, trying to establish connection.
+< Jun 27 23:15:02 ip-172-31-24-34 systemd-timesyncd[522]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).
+< Jun 27 23:17:01 ip-172-31-24-34 CRON[12090]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+< Jun 27 23:45:02 ip-172-31-24-34 systemd-timesyncd[522]: Network configuration changed, trying to establish connection.
+< Jun 27 23:45:02 ip-172-31-24-34 systemd-timesyncd[522]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).
+< Jun 27 23:50:01 ip-172-31-24-34 CRON[12096]: (root) CMD (/script/logger.sh > /dev/null 2>&1)
+< Jun 28 00:15:02 ip-172-31-24-34 systemd-timesyncd[522]: Network configuration changed, trying to establish connection.
+< Jun 28 00:15:03 ip-172-31-24-34 systemd-timesyncd[522]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).
+< Jun 28 00:17:01 ip-172-31-24-34 CRON[12149]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+< Jun 28 00:45:01 ip-172-31-24-34 systemd-timesyncd[522]: Network configuration changed, trying to establish connection.
+< Jun 28 00:45:01 ip-172-31-24-34 systemd-timesyncd[522]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).
+< Jun 28 01:15:00 ip-172-31-24-34 systemd-timesyncd[522]: Network configuration changed, trying to establish connection.
+< Jun 28 01:15:00 ip-172-31-24-34 systemd-timesyncd[522]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).
+< Jun 28 01:17:01 ip-172-31-24-34 CRON[12156]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+< Jun 28 01:44:59 ip-172-31-24-34 systemd-timesyncd[522]: Network configuration changed, trying to establish connection.
+< Jun 28 01:44:59 ip-172-31-24-34 systemd-timesyncd[522]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).
+< Jun 28 02:14:58 ip-172-31-24-34 systemd-timesyncd[522]: Network configuration changed, trying to establish connection.
+< Jun 28 02:14:58 ip-172-31-24-34 systemd-timesyncd[522]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).
+< Jun 28 02:17:01 ip-172-31-24-34 CRON[12163]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+< Jun 28 02:44:57 ip-172-31-24-34 systemd-timesyncd[522]: Network configuration changed, trying to establish connection.
+< Jun 28 02:44:57 ip-172-31-24-34 systemd-timesyncd[522]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).
+< Jun 28 03:14:57 ip-172-31-24-34 systemd-timesyncd[522]: Network configuration changed, trying to establish connection.
+< Jun 28 03:14:58 ip-172-31-24-34 systemd-timesyncd[522]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).
+< Jun 28 03:17:01 ip-172-31-24-34 CRON[12224]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+< Jun 28 03:44:57 ip-172-31-24-34 systemd-timesyncd[522]: Network configuration changed, trying to establish connection.
+< Jun 28 03:44:58 ip-172-31-24-34 systemd-timesyncd[522]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).
+< Jun 28 04:14:56 ip-172-31-24-34 systemd-timesyncd[522]: Network configuration changed, trying to establish connection.
+< Jun 28 04:14:56 ip-172-31-24-34 systemd-timesyncd[522]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).
+< Jun 28 04:17:01 ip-172-31-24-34 CRON[12232]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+< Jun 28 04:24:01 ip-172-31-24-34 CRON[12236]: (root) CMD (   test -x /etc/cron.daily/popularity-contest && /etc/cron.daily/popularity-contest --crond)
+< Jun 28 04:44:55 ip-172-31-24-34 systemd-timesyncd[522]: Network configuration changed, trying to establish connection.
+< Jun 28 04:44:56 ip-172-31-24-34 systemd-timesyncd[522]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).
+< Jun 28 05:14:54 ip-172-31-24-34 systemd-timesyncd[522]: Network configuration changed, trying to establish connection.
+< Jun 28 05:14:54 ip-172-31-24-34 systemd-timesyncd[522]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).
+< Jun 28 05:17:01 ip-172-31-24-34 CRON[12384]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+< Jun 28 05:44:54 ip-172-31-24-34 systemd-timesyncd[522]: Network configuration changed, trying to establish connection.
+< Jun 28 05:44:55 ip-172-31-24-34 systemd-timesyncd[522]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).
+< Jun 28 06:14:55 ip-172-31-24-34 systemd-timesyncd[522]: Network configuration changed, trying to establish connection.
+< Jun 28 06:14:55 ip-172-31-24-34 systemd-timesyncd[522]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).
+< Jun 28 06:17:01 ip-172-31-24-34 CRON[12720]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+< Jun 28 06:25:01 ip-172-31-24-34 CRON[12724]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+< Jun 28 06:44:55 ip-172-31-24-34 systemd-timesyncd[522]: Network configuration changed, trying to establish connection.
+< Jun 28 06:44:56 ip-172-31-24-34 systemd-timesyncd[522]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).
+< Jun 28 07:14:55 ip-172-31-24-34 systemd-timesyncd[522]: Network configuration changed, trying to establish connection.
+< Jun 28 07:14:56 ip-172-31-24-34 systemd-timesyncd[522]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).
+< Jun 28 07:17:01 ip-172-31-24-34 CRON[13511]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+< Jun 28 07:44:56 ip-172-31-24-34 systemd-timesyncd[522]: Network configuration changed, trying to establish connection.
+< Jun 28 07:44:56 ip-172-31-24-34 systemd-timesyncd[522]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).
+< Jun 28 08:14:55 ip-172-31-24-34 systemd-timesyncd[522]: Network configuration changed, trying to establish connection.
+< Jun 28 08:14:55 ip-172-31-24-34 systemd-timesyncd[522]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).
+< Jun 28 08:17:01 ip-172-31-24-34 CRON[13684]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+< Jun 28 08:44:54 ip-172-31-24-34 systemd-timesyncd[522]: Network configuration changed, trying to establish connection.
+< Jun 28 08:44:54 ip-172-31-24-34 systemd-timesyncd[522]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).
+< Jun 28 09:14:53 ip-172-31-24-34 systemd-timesyncd[522]: Network configuration changed, trying to establish connection.
+< Jun 28 09:14:54 ip-172-31-24-34 systemd-timesyncd[522]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).
+< Jun 28 09:17:01 ip-172-31-24-34 CRON[14065]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+< Jun 28 09:44:52 ip-172-31-24-34 systemd-timesyncd[522]: Network configuration changed, trying to establish connection.
+< Jun 28 09:44:52 ip-172-31-24-34 systemd-timesyncd[522]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).
+< Jun 28 10:14:51 ip-172-31-24-34 systemd-timesyncd[522]: Network configuration changed, trying to establish connection.
+< Jun 28 10:14:51 ip-172-31-24-34 systemd-timesyncd[522]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).
+< Jun 28 10:17:01 ip-172-31-24-34 CRON[14238]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+}SEPARATOR
+dpkgtemp:{
+1571,1620d1570
+< 2019-06-28 06:09:50 startup archives unpack
+< 2019-06-28 06:09:51 upgrade libexpat1:amd64 2.2.5-3 2.2.5-3ubuntu0.1
+< 2019-06-28 06:09:51 status triggers-pending libc-bin:amd64 2.27-3ubuntu1
+< 2019-06-28 06:09:51 status half-configured libexpat1:amd64 2.2.5-3
+< 2019-06-28 06:09:51 status unpacked libexpat1:amd64 2.2.5-3
+< 2019-06-28 06:09:51 status half-installed libexpat1:amd64 2.2.5-3
+< 2019-06-28 06:09:51 status half-installed libexpat1:amd64 2.2.5-3
+< 2019-06-28 06:09:51 status unpacked libexpat1:amd64 2.2.5-3ubuntu0.1
+< 2019-06-28 06:09:51 status unpacked libexpat1:amd64 2.2.5-3ubuntu0.1
+< 2019-06-28 06:09:51 startup packages configure
+< 2019-06-28 06:09:51 configure libexpat1:amd64 2.2.5-3ubuntu0.1 <none>
+< 2019-06-28 06:09:51 status unpacked libexpat1:amd64 2.2.5-3ubuntu0.1
+< 2019-06-28 06:09:51 status half-configured libexpat1:amd64 2.2.5-3ubuntu0.1
+< 2019-06-28 06:09:51 status installed libexpat1:amd64 2.2.5-3ubuntu0.1
+< 2019-06-28 06:09:51 trigproc libc-bin:amd64 2.27-3ubuntu1 <none>
+< 2019-06-28 06:09:51 status half-configured libc-bin:amd64 2.27-3ubuntu1
+< 2019-06-28 06:09:51 status installed libc-bin:amd64 2.27-3ubuntu1
+< 2019-06-28 06:09:53 startup archives unpack
+< 2019-06-28 06:09:53 upgrade bzip2:amd64 1.0.6-8.1 1.0.6-8.1ubuntu0.1
+< 2019-06-28 06:09:53 status half-configured bzip2:amd64 1.0.6-8.1
+< 2019-06-28 06:09:53 status unpacked bzip2:amd64 1.0.6-8.1
+< 2019-06-28 06:09:53 status half-installed bzip2:amd64 1.0.6-8.1
+< 2019-06-28 06:09:53 status triggers-pending man-db:amd64 2.8.3-2ubuntu0.1
+< 2019-06-28 06:09:53 status half-installed bzip2:amd64 1.0.6-8.1
+< 2019-06-28 06:09:53 status unpacked bzip2:amd64 1.0.6-8.1ubuntu0.1
+< 2019-06-28 06:09:53 status unpacked bzip2:amd64 1.0.6-8.1ubuntu0.1
+< 2019-06-28 06:09:54 upgrade libbz2-1.0:amd64 1.0.6-8.1 1.0.6-8.1ubuntu0.1
+< 2019-06-28 06:09:54 status triggers-pending libc-bin:amd64 2.27-3ubuntu1
+< 2019-06-28 06:09:54 status half-configured libbz2-1.0:amd64 1.0.6-8.1
+< 2019-06-28 06:09:54 status unpacked libbz2-1.0:amd64 1.0.6-8.1
+< 2019-06-28 06:09:54 status half-installed libbz2-1.0:amd64 1.0.6-8.1
+< 2019-06-28 06:09:54 status half-installed libbz2-1.0:amd64 1.0.6-8.1
+< 2019-06-28 06:09:54 status unpacked libbz2-1.0:amd64 1.0.6-8.1ubuntu0.1
+< 2019-06-28 06:09:54 status unpacked libbz2-1.0:amd64 1.0.6-8.1ubuntu0.1
+< 2019-06-28 06:09:54 startup packages configure
+< 2019-06-28 06:09:54 configure libbz2-1.0:amd64 1.0.6-8.1ubuntu0.1 <none>
+< 2019-06-28 06:09:54 status unpacked libbz2-1.0:amd64 1.0.6-8.1ubuntu0.1
+< 2019-06-28 06:09:54 status half-configured libbz2-1.0:amd64 1.0.6-8.1ubuntu0.1
+< 2019-06-28 06:09:54 status installed libbz2-1.0:amd64 1.0.6-8.1ubuntu0.1
+< 2019-06-28 06:09:54 startup packages configure
+< 2019-06-28 06:09:54 configure bzip2:amd64 1.0.6-8.1ubuntu0.1 <none>
+< 2019-06-28 06:09:54 status unpacked bzip2:amd64 1.0.6-8.1ubuntu0.1
+< 2019-06-28 06:09:54 status half-configured bzip2:amd64 1.0.6-8.1ubuntu0.1
+< 2019-06-28 06:09:54 status installed bzip2:amd64 1.0.6-8.1ubuntu0.1
+< 2019-06-28 06:09:54 trigproc libc-bin:amd64 2.27-3ubuntu1 <none>
+< 2019-06-28 06:09:54 status half-configured libc-bin:amd64 2.27-3ubuntu1
+< 2019-06-28 06:09:54 status installed libc-bin:amd64 2.27-3ubuntu1
+< 2019-06-28 06:09:54 trigproc man-db:amd64 2.8.3-2ubuntu0.1 <none>
+< 2019-06-28 06:09:54 status half-configured man-db:amd64 2.8.3-2ubuntu0.1
+< 2019-06-28 06:09:54 status installed man-db:amd64 2.8.3-2ubuntu0.1
+}SEPARATOR
+kerntemp:{
+84,125d83
+< Jun 27 07:58:04 ip-172-31-24-34 kernel: [429073.226580] [UFW BLOCK] IN=eth0 OUT= MAC=02:4a:8f:65:ba:18:02:50:a4:ea:48:6c:08:00 SRC=198.108.66.109 DST=172.31.24.34 LEN=40 TOS=0x00 PREC=0x00 TTL=230 ID=54321 PROTO=TCP SPT=38249 DPT=443 WINDOW=65535 RES=0x00 SYN URGP=0 
+< Jun 27 08:59:22 ip-172-31-24-34 kernel: [432750.560871] [UFW BLOCK] IN=eth0 OUT= MAC=02:4a:8f:65:ba:18:02:50:a4:ea:48:6c:08:00 SRC=178.128.197.146 DST=172.31.24.34 LEN=40 TOS=0x00 PREC=0x00 TTL=233 ID=54321 PROTO=TCP SPT=39428 DPT=443 WINDOW=65535 RES=0x00 SYN URGP=0 
+< Jun 27 09:17:27 ip-172-31-24-34 kernel: [433836.037952] [UFW BLOCK] IN=eth0 OUT= MAC=02:4a:8f:65:ba:18:02:50:a4:ea:48:6c:08:00 SRC=77.247.110.203 DST=172.31.24.34 LEN=40 TOS=0x08 PREC=0x00 TTL=232 ID=56134 PROTO=TCP SPT=57167 DPT=443 WINDOW=1024 RES=0x00 SYN URGP=0 
+< Jun 27 10:24:49 ip-172-31-24-34 kernel: [437877.226386] [UFW BLOCK] IN=eth0 OUT= MAC=02:4a:8f:65:ba:18:02:50:a4:ea:48:6c:08:00 SRC=198.108.66.244 DST=172.31.24.34 LEN=40 TOS=0x00 PREC=0x00 TTL=230 ID=54321 PROTO=TCP SPT=45580 DPT=443 WINDOW=65535 RES=0x00 SYN URGP=0 
+< Jun 27 11:05:28 ip-172-31-24-34 kernel: [440316.432416] [UFW BLOCK] IN=eth0 OUT= MAC=02:4a:8f:65:ba:18:02:50:a4:ea:48:6c:08:00 SRC=163.172.16.125 DST=172.31.24.34 LEN=52 TOS=0x02 PREC=0x00 TTL=111 ID=22955 DF PROTO=TCP SPT=2518 DPT=443 WINDOW=200 RES=0x00 CWR ECE SYN URGP=0 
+< Jun 27 11:05:31 ip-172-31-24-34 kernel: [440319.441330] [UFW BLOCK] IN=eth0 OUT= MAC=02:4a:8f:65:ba:18:02:50:a4:ea:48:6c:08:00 SRC=163.172.16.125 DST=172.31.24.34 LEN=52 TOS=0x02 PREC=0x00 TTL=111 ID=23027 DF PROTO=TCP SPT=2518 DPT=443 WINDOW=200 RES=0x00 CWR ECE SYN URGP=0 
+< Jun 27 11:05:37 ip-172-31-24-34 kernel: [440325.441780] [UFW BLOCK] IN=eth0 OUT= MAC=02:4a:8f:65:ba:18:02:50:a4:ea:48:6c:08:00 SRC=163.172.16.125 DST=172.31.24.34 LEN=48 TOS=0x00 PREC=0x00 TTL=111 ID=23260 DF PROTO=TCP SPT=2518 DPT=443 WINDOW=200 RES=0x00 SYN URGP=0 
+< Jun 27 12:17:55 ip-172-31-24-34 kernel: [444663.739290] [UFW BLOCK] IN=eth0 OUT= MAC=02:4a:8f:65:ba:18:02:50:a4:ea:48:6c:08:00 SRC=198.108.66.42 DST=172.31.24.34 LEN=40 TOS=0x00 PREC=0x00 TTL=230 ID=54321 PROTO=TCP SPT=51548 DPT=443 WINDOW=65535 RES=0x00 SYN URGP=0 
+< Jun 27 13:24:03 ip-172-31-24-34 kernel: [448631.930292] [UFW BLOCK] IN=eth0 OUT= MAC=02:4a:8f:65:ba:18:02:50:a4:ea:48:6c:08:00 SRC=163.172.16.125 DST=172.31.24.34 LEN=52 TOS=0x02 PREC=0x00 TTL=111 ID=27719 DF PROTO=TCP SPT=783 DPT=443 WINDOW=200 RES=0x00 CWR ECE SYN URGP=0 
+< Jun 27 13:24:06 ip-172-31-24-34 kernel: [448634.922862] [UFW BLOCK] IN=eth0 OUT= MAC=02:4a:8f:65:ba:18:02:50:a4:ea:48:6c:08:00 SRC=163.172.16.125 DST=172.31.24.34 LEN=52 TOS=0x02 PREC=0x00 TTL=111 ID=27924 DF PROTO=TCP SPT=783 DPT=443 WINDOW=200 RES=0x00 CWR ECE SYN URGP=0 
+< Jun 27 13:24:12 ip-172-31-24-34 kernel: [448640.923273] [UFW BLOCK] IN=eth0 OUT= MAC=02:4a:8f:65:ba:18:02:50:a4:ea:48:6c:08:00 SRC=163.172.16.125 DST=172.31.24.34 LEN=48 TOS=0x00 PREC=0x00 TTL=111 ID=28186 DF PROTO=TCP SPT=783 DPT=443 WINDOW=200 RES=0x00 SYN URGP=0 
+< Jun 27 14:07:45 ip-172-31-24-34 kernel: [451253.236843] [UFW BLOCK] IN=eth0 OUT= MAC=02:4a:8f:65:ba:18:02:50:a4:ea:48:6c:08:00 SRC=173.255.211.75 DST=172.31.24.34 LEN=40 TOS=0x00 PREC=0x00 TTL=233 ID=54321 PROTO=TCP SPT=58273 DPT=443 WINDOW=65535 RES=0x00 SYN URGP=0 
+< Jun 27 14:33:30 ip-172-31-24-34 kernel: [452798.813554] [UFW BLOCK] IN=eth0 OUT= MAC=02:4a:8f:65:ba:18:02:50:a4:ea:48:6c:08:00 SRC=128.14.209.237 DST=172.31.24.34 LEN=40 TOS=0x00 PREC=0x00 TTL=233 ID=37860 PROTO=TCP SPT=41644 DPT=443 WINDOW=1024 RES=0x00 SYN URGP=0 
+< Jun 27 16:20:47 ip-172-31-24-34 kernel: [459235.100256] [UFW BLOCK] IN=eth0 OUT= MAC=02:4a:8f:65:ba:18:02:50:a4:ea:48:6c:08:00 SRC=71.6.143.92 DST=172.31.24.34 LEN=40 TOS=0x00 PREC=0x00 TTL=235 ID=33229 PROTO=TCP SPT=55786 DPT=443 WINDOW=65535 RES=0x00 SYN URGP=0 
+< Jun 27 17:00:22 ip-172-31-24-34 kernel: [461610.478716] [UFW BLOCK] IN=eth0 OUT= MAC=02:4a:8f:65:ba:18:02:50:a4:ea:48:6c:08:00 SRC=216.243.31.2 DST=172.31.24.34 LEN=40 TOS=0x00 PREC=0x00 TTL=233 ID=54321 PROTO=TCP SPT=45579 DPT=443 WINDOW=65535 RES=0x00 SYN URGP=0 
+< Jun 27 17:52:15 ip-172-31-24-34 kernel: [464722.906219] [UFW BLOCK] IN=eth0 OUT= MAC=02:4a:8f:65:ba:18:02:50:a4:ea:48:6c:08:00 SRC=80.82.77.139 DST=172.31.24.34 LEN=44 TOS=0x00 PREC=0x00 TTL=106 ID=20108 PROTO=TCP SPT=20012 DPT=443 WINDOW=19900 RES=0x00 SYN URGP=0 
+< Jun 27 19:58:21 ip-172-31-24-34 kernel: [472288.846364] [UFW BLOCK] IN=eth0 OUT= MAC=02:4a:8f:65:ba:18:02:50:a4:ea:48:6c:08:00 SRC=178.128.197.146 DST=172.31.24.34 LEN=40 TOS=0x00 PREC=0x00 TTL=235 ID=54321 PROTO=TCP SPT=60325 DPT=443 WINDOW=65535 RES=0x00 SYN URGP=0 
+< Jun 27 20:42:03 ip-172-31-24-34 kernel: [474911.194548] [UFW BLOCK] IN=eth0 OUT= MAC=02:4a:8f:65:ba:18:02:50:a4:ea:48:6c:08:00 SRC=185.10.68.152 DST=172.31.24.34 LEN=40 TOS=0x00 PREC=0x00 TTL=233 ID=53829 PROTO=TCP SPT=43000 DPT=443 WINDOW=1024 RES=0x00 SYN URGP=0 
+< Jun 27 22:52:23 ip-172-31-24-34 kernel: [482730.448919] kauditd_printk_skb: 1 callbacks suppressed
+< Jun 27 22:52:23 ip-172-31-24-34 kernel: [482730.448921] audit: type=1400 audit(1561675943.058:35): apparmor="STATUS" operation="profile_load" profile="unconfined" name="/snap/core/7270/usr/lib/snapd/snap-confine" pid=11949 comm="apparmor_parser"
+< Jun 27 22:52:23 ip-172-31-24-34 kernel: [482730.449422] audit: type=1400 audit(1561675943.058:36): apparmor="STATUS" operation="profile_load" profile="unconfined" name="/snap/core/7270/usr/lib/snapd/snap-confine//mount-namespace-capture-helper" pid=11949 comm="apparmor_parser"
+< Jun 27 22:52:23 ip-172-31-24-34 kernel: [482730.553734] audit: type=1400 audit(1561675943.162:37): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="snap.core.hook.configure" pid=11951 comm="apparmor_parser"
+< Jun 27 22:52:23 ip-172-31-24-34 kernel: [482730.558504] audit: type=1400 audit(1561675943.170:38): apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="snap-update-ns.core" pid=11953 comm="apparmor_parser"
+< Jun 27 22:52:24 ip-172-31-24-34 kernel: [482731.961975] audit: type=1400 audit(1561675944.574:39): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="/snap/core/7270/usr/lib/snapd/snap-confine" pid=12016 comm="apparmor_parser"
+< Jun 27 22:52:24 ip-172-31-24-34 kernel: [482731.962189] audit: type=1400 audit(1561675944.574:40): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="/snap/core/7270/usr/lib/snapd/snap-confine//mount-namespace-capture-helper" pid=12016 comm="apparmor_parser"
+< Jun 27 22:52:24 ip-172-31-24-34 kernel: [482731.967938] audit: type=1400 audit(1561675944.578:41): apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="snap-update-ns.core" pid=12018 comm="apparmor_parser"
+< Jun 27 22:52:24 ip-172-31-24-34 kernel: [482731.969735] audit: type=1400 audit(1561675944.578:42): apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="snap.core.hook.configure" pid=12019 comm="apparmor_parser"
+< Jun 27 22:52:24 ip-172-31-24-34 kernel: [482732.022418] audit: type=1400 audit(1561675944.634:43): apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="snap-update-ns.amazon-ssm-agent" pid=12030 comm="apparmor_parser"
+< Jun 27 22:52:24 ip-172-31-24-34 kernel: [482732.024097] audit: type=1400 audit(1561675944.634:44): apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="snap.amazon-ssm-agent.amazon-ssm-agent" pid=12031 comm="apparmor_parser"
+< Jun 27 23:29:18 ip-172-31-24-34 kernel: [484945.703042] [UFW BLOCK] IN=eth0 OUT= MAC=02:4a:8f:65:ba:18:02:50:a4:ea:48:6c:08:00 SRC=209.17.96.226 DST=172.31.24.34 LEN=44 TOS=0x08 PREC=0x20 TTL=230 ID=60778 PROTO=TCP SPT=62964 DPT=443 WINDOW=1024 RES=0x00 SYN URGP=0 
+< Jun 28 02:25:56 ip-172-31-24-34 kernel: [495543.232336] [UFW BLOCK] IN=eth0 OUT= MAC=02:4a:8f:65:ba:18:02:50:a4:ea:48:6c:08:00 SRC=88.80.189.24 DST=172.31.24.34 LEN=40 TOS=0x00 PREC=0x00 TTL=232 ID=16028 PROTO=TCP SPT=48527 DPT=443 WINDOW=1024 RES=0x00 SYN URGP=0 
+< Jun 28 03:04:13 ip-172-31-24-34 kernel: [497840.756753] [UFW BLOCK] IN=eth0 OUT= MAC=02:4a:8f:65:ba:18:02:50:a4:ea:48:6c:08:00 SRC=139.162.125.159 DST=172.31.24.34 LEN=40 TOS=0x00 PREC=0x00 TTL=238 ID=54321 PROTO=TCP SPT=42797 DPT=443 WINDOW=65535 RES=0x00 SYN URGP=0 
+< Jun 28 03:58:57 ip-172-31-24-34 kernel: [501124.515370] [UFW BLOCK] IN=eth0 OUT= MAC=02:4a:8f:65:ba:18:02:50:a4:ea:48:6c:08:00 SRC=123.207.107.199 DST=172.31.24.34 LEN=52 TOS=0x00 PREC=0x00 TTL=105 ID=18421 DF PROTO=TCP SPT=54777 DPT=443 WINDOW=8192 RES=0x00 CWR ECE SYN URGP=0 
+< Jun 28 04:41:13 ip-172-31-24-34 kernel: [503660.808668] [UFW BLOCK] IN=eth0 OUT= MAC=02:4a:8f:65:ba:18:02:50:a4:ea:48:6c:08:00 SRC=184.105.247.238 DST=172.31.24.34 LEN=40 TOS=0x00 PREC=0x00 TTL=236 ID=54321 PROTO=TCP SPT=39564 DPT=443 WINDOW=65535 RES=0x00 SYN URGP=0 
+< Jun 28 06:29:42 ip-172-31-24-34 kernel: [510169.017161] [UFW BLOCK] IN=eth0 OUT= MAC=02:4a:8f:65:ba:18:02:50:a4:ea:48:6c:08:00 SRC=93.113.125.89 DST=172.31.24.34 LEN=40 TOS=0x00 PREC=0x00 TTL=230 ID=27552 PROTO=TCP SPT=44444 DPT=443 WINDOW=1024 RES=0x00 SYN URGP=0 
+< Jun 28 06:45:17 ip-172-31-24-34 kernel: [511104.069416] [UFW BLOCK] IN=eth0 OUT= MAC=02:4a:8f:65:ba:18:02:50:a4:ea:48:6c:08:00 SRC=104.248.80.197 DST=172.31.24.34 LEN=40 TOS=0x00 PREC=0x00 TTL=234 ID=54321 PROTO=TCP SPT=52146 DPT=443 WINDOW=65535 RES=0x00 SYN URGP=0 
+< Jun 28 06:55:14 ip-172-31-24-34 kernel: [511701.114901] [UFW BLOCK] IN=eth0 OUT= MAC=02:4a:8f:65:ba:18:02:50:a4:ea:48:6c:08:00 SRC=45.79.106.170 DST=172.31.24.34 LEN=40 TOS=0x00 PREC=0x00 TTL=235 ID=54321 PROTO=TCP SPT=53489 DPT=443 WINDOW=65535 RES=0x00 SYN URGP=0 
+< Jun 28 08:13:26 ip-172-31-24-34 kernel: [516393.318585] [UFW BLOCK] IN=eth0 OUT= MAC=02:4a:8f:65:ba:18:02:50:a4:ea:48:6c:08:00 SRC=207.148.74.159 DST=172.31.24.34 LEN=60 TOS=0x00 PREC=0x00 TTL=48 ID=41515 DF PROTO=TCP SPT=51968 DPT=443 WINDOW=29200 RES=0x00 SYN URGP=0 
+< Jun 28 08:13:27 ip-172-31-24-34 kernel: [516394.320894] [UFW BLOCK] IN=eth0 OUT= MAC=02:4a:8f:65:ba:18:02:50:a4:ea:48:6c:08:00 SRC=207.148.74.159 DST=172.31.24.34 LEN=60 TOS=0x00 PREC=0x00 TTL=48 ID=41516 DF PROTO=TCP SPT=51968 DPT=443 WINDOW=29200 RES=0x00 SYN URGP=0 
+< Jun 28 08:13:29 ip-172-31-24-34 kernel: [516396.323059] [UFW BLOCK] IN=eth0 OUT= MAC=02:4a:8f:65:ba:18:02:50:a4:ea:48:6c:08:00 SRC=207.148.74.159 DST=172.31.24.34 LEN=60 TOS=0x00 PREC=0x00 TTL=48 ID=41517 DF PROTO=TCP SPT=51968 DPT=443 WINDOW=29200 RES=0x00 SYN URGP=0 
+< Jun 28 08:13:33 ip-172-31-24-34 kernel: [516400.330276] [UFW BLOCK] IN=eth0 OUT= MAC=02:4a:8f:65:ba:18:02:50:a4:ea:48:6c:08:00 SRC=207.148.74.159 DST=172.31.24.34 LEN=60 TOS=0x00 PREC=0x00 TTL=48 ID=41518 DF PROTO=TCP SPT=51968 DPT=443 WINDOW=29200 RES=0x00 SYN URGP=0 
+< Jun 28 09:02:14 ip-172-31-24-34 kernel: [519321.320341] [UFW BLOCK] IN=eth0 OUT= MAC=02:4a:8f:65:ba:18:02:50:a4:ea:48:6c:08:00 SRC=185.248.162.170 DST=172.31.24.34 LEN=40 TOS=0x00 PREC=0x00 TTL=236 ID=54321 PROTO=TCP SPT=53149 DPT=443 WINDOW=65535 RES=0x00 SYN URGP=0 
+}SEPARATOR
+ng_accesstemp:{
+1c1,29
+< 185.209.0.12 - - [28/Jun/2019:09:12:59 +0000] "\x03\x00\x00/*\xE0\x00\x00\x00\x00\x00Cookie: mstshash=Administr" 400 182 "-" "-"
+---
+> 194.32.117.3 - - [27/Jun/2019:06:37:53 +0000] "GET / HTTP/1.1" 400 182 "-" "-"
+> 104.200.134.161 - - [27/Jun/2019:10:52:19 +0000] "GET /user/soapCaller.bs HTTP/1.1" 404 152 "-" "Morfeus Fucking Scanner"
+> 162.156.115.199 - - [27/Jun/2019:12:41:01 +0000] "GET / HTTP/1.1" 200 612 "-" "-"
+> 163.172.16.125 - - [27/Jun/2019:13:14:19 +0000] "\x03\x00\x00/*\xE0\x00\x00\x00\x00\x00Cookie: mstshash=Administr" 400 182 "-" "-"
+> 163.172.16.125 - - [27/Jun/2019:13:18:42 +0000] "\x03\x00\x00/*\xE0\x00\x00\x00\x00\x00Cookie: mstshash=Administr" 400 182 "-" "-"
+> 211.149.241.18 - - [27/Jun/2019:15:24:06 +0000] "GET /TP/public/index.php HTTP/1.1" 404 152 "-" "Mozilla/5.0 (Windows; U; Windows NT 6.0;en-US; rv:1.9.2) Gecko/20100115 Firefox/3.6)"
+> 211.149.241.18 - - [27/Jun/2019:15:24:06 +0000] "GET /TP/index.php HTTP/1.1" 404 152 "-" "Mozilla/5.0 (Windows; U; Windows NT 6.0;en-US; rv:1.9.2) Gecko/20100115 Firefox/3.6)"
+> 211.149.241.18 - - [27/Jun/2019:15:24:07 +0000] "GET /thinkphp/html/public/index.php HTTP/1.1" 404 152 "-" "Mozilla/5.0 (Windows; U; Windows NT 6.0;en-US; rv:1.9.2) Gecko/20100115 Firefox/3.6)"
+> 211.149.241.18 - - [27/Jun/2019:15:24:07 +0000] "GET /html/public/index.php HTTP/1.1" 404 152 "-" "Mozilla/5.0 (Windows; U; Windows NT 6.0;en-US; rv:1.9.2) Gecko/20100115 Firefox/3.6)"
+> 211.149.241.18 - - [27/Jun/2019:15:24:07 +0000] "GET /public/index.php HTTP/1.1" 404 152 "-" "Mozilla/5.0 (Windows; U; Windows NT 6.0;en-US; rv:1.9.2) Gecko/20100115 Firefox/3.6)"
+> 211.149.241.18 - - [27/Jun/2019:15:24:08 +0000] "GET /TP/html/public/index.php HTTP/1.1" 404 152 "-" "Mozilla/5.0 (Windows; U; Windows NT 6.0;en-US; rv:1.9.2) Gecko/20100115 Firefox/3.6)"
+> 211.149.241.18 - - [27/Jun/2019:15:24:08 +0000] "GET /elrekt.php HTTP/1.1" 404 152 "-" "Mozilla/5.0 (Windows; U; Windows NT 6.0;en-US; rv:1.9.2) Gecko/20100115 Firefox/3.6)"
+> 211.149.241.18 - - [27/Jun/2019:15:24:08 +0000] "GET /index.php HTTP/1.1" 404 152 "-" "Mozilla/5.0 (Windows; U; Windows NT 6.0;en-US; rv:1.9.2) Gecko/20100115 Firefox/3.6)"
+> 211.149.241.18 - - [27/Jun/2019:15:24:09 +0000] "GET / HTTP/1.1" 200 396 "-" "Mozilla/5.0 (Windows; U; Windows NT 6.0;en-US; rv:1.9.2) Gecko/20100115 Firefox/3.6)"
+> 5.102.205.5 - - [27/Jun/2019:15:54:46 +0000] "GET / HTTP/1.1" 200 396 "-" "Python/3.7 aiohttp/3.5.4"
+> 139.162.146.15 - - [27/Jun/2019:16:43:27 +0000] "PROPFIND / HTTP/1.1" 405 584 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36"
+> 116.28.1.12 - admin [27/Jun/2019:16:53:32 +0000] "GET /web/cgi-bin/hi3510/param.cgi?cmd=getp2pattr&cmd=getuserattr HTTP/1.1" 404 580 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)"
+> 18.209.109.215 - - [27/Jun/2019:17:44:15 +0000] "GET / HTTP/1.1" 200 396 "-" "Mozilla/5.0 (Windows NT 6.2;en-US) AppleWebKit/537.32.36 (KHTML, live Gecko) Chrome/56.0.3039.113 Safari/537.32"
+> 164.68.96.131 - - [27/Jun/2019:21:39:03 +0000] "GET /TP/public/index.php HTTP/1.1" 404 152 "-" "Mozilla/5.0 (Windows; U; Windows NT 6.0;en-US; rv:1.9.2) Gecko/20100115 Firefox/3.6)"
+> 164.68.96.131 - - [27/Jun/2019:21:39:03 +0000] "GET /TP/index.php HTTP/1.1" 404 152 "-" "Mozilla/5.0 (Windows; U; Windows NT 6.0;en-US; rv:1.9.2) Gecko/20100115 Firefox/3.6)"
+> 164.68.96.131 - - [27/Jun/2019:21:39:04 +0000] "GET /thinkphp/html/public/index.php HTTP/1.1" 404 152 "-" "Mozilla/5.0 (Windows; U; Windows NT 6.0;en-US; rv:1.9.2) Gecko/20100115 Firefox/3.6)"
+> 164.68.96.131 - - [27/Jun/2019:21:39:04 +0000] "GET /html/public/index.php HTTP/1.1" 404 152 "-" "Mozilla/5.0 (Windows; U; Windows NT 6.0;en-US; rv:1.9.2) Gecko/20100115 Firefox/3.6)"
+> 164.68.96.131 - - [27/Jun/2019:21:39:05 +0000] "GET /public/index.php HTTP/1.1" 404 152 "-" "Mozilla/5.0 (Windows; U; Windows NT 6.0;en-US; rv:1.9.2) Gecko/20100115 Firefox/3.6)"
+> 164.68.96.131 - - [27/Jun/2019:21:39:05 +0000] "GET /TP/html/public/index.php HTTP/1.1" 404 152 "-" "Mozilla/5.0 (Windows; U; Windows NT 6.0;en-US; rv:1.9.2) Gecko/20100115 Firefox/3.6)"
+> 164.68.96.131 - - [27/Jun/2019:21:39:06 +0000] "GET /elrekt.php HTTP/1.1" 404 152 "-" "Mozilla/5.0 (Windows; U; Windows NT 6.0;en-US; rv:1.9.2) Gecko/20100115 Firefox/3.6)"
+> 164.68.96.131 - - [27/Jun/2019:21:39:06 +0000] "GET /index.php HTTP/1.1" 404 152 "-" "Mozilla/5.0 (Windows; U; Windows NT 6.0;en-US; rv:1.9.2) Gecko/20100115 Firefox/3.6)"
+> 164.68.96.131 - - [27/Jun/2019:21:39:07 +0000] "GET / HTTP/1.1" 200 396 "-" "Mozilla/5.0 (Windows; U; Windows NT 6.0;en-US; rv:1.9.2) Gecko/20100115 Firefox/3.6)"
+> 188.73.21.116 - - [27/Jun/2019:22:22:31 +0000] "HEAD /robots.txt HTTP/1.0" 404 0 "-" "-"
+> 23.129.64.165 - - [27/Jun/2019:22:49:50 +0000] "GET / HTTP/1.1" 200 396 "-" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0"
+}SEPARATOR
+ng_errortemp:{
+}SEPARATOR
+systemp:{
+1,71c1,206
+< Jun 28 06:29:42 ip-172-31-24-34 kernel: [510169.017161] [UFW BLOCK] IN=eth0 OUT= MAC=02:4a:8f:65:ba:18:02:50:a4:ea:48:6c:08:00 SRC=93.113.125.89 DST=172.31.24.34 LEN=40 TOS=0x00 PREC=0x00 TTL=230 ID=27552 PROTO=TCP SPT=44444 DPT=443 WINDOW=1024 RES=0x00 SYN URGP=0 
+< Jun 28 06:44:55 ip-172-31-24-34 systemd-timesyncd[522]: Network configuration changed, trying to establish connection.
+< Jun 28 06:44:56 ip-172-31-24-34 systemd-timesyncd[522]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).
+< Jun 28 06:45:17 ip-172-31-24-34 kernel: [511104.069416] [UFW BLOCK] IN=eth0 OUT= MAC=02:4a:8f:65:ba:18:02:50:a4:ea:48:6c:08:00 SRC=104.248.80.197 DST=172.31.24.34 LEN=40 TOS=0x00 PREC=0x00 TTL=234 ID=54321 PROTO=TCP SPT=52146 DPT=443 WINDOW=65535 RES=0x00 SYN URGP=0 
+< Jun 28 06:55:14 ip-172-31-24-34 kernel: [511701.114901] [UFW BLOCK] IN=eth0 OUT= MAC=02:4a:8f:65:ba:18:02:50:a4:ea:48:6c:08:00 SRC=45.79.106.170 DST=172.31.24.34 LEN=40 TOS=0x00 PREC=0x00 TTL=235 ID=54321 PROTO=TCP SPT=53489 DPT=443 WINDOW=65535 RES=0x00 SYN URGP=0 
+< Jun 28 06:59:24 ip-172-31-24-34 systemd[1]: Started Session 189 of user ubuntu.
+< Jun 28 06:59:32 ip-172-31-24-34 systemd[1]: Started Session 190 of user ubuntu.
+< Jun 28 07:14:55 ip-172-31-24-34 systemd-timesyncd[522]: Network configuration changed, trying to establish connection.
+< Jun 28 07:14:56 ip-172-31-24-34 systemd-timesyncd[522]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).
+< Jun 28 07:17:01 ip-172-31-24-34 CRON[13511]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+< Jun 28 07:21:27 ip-172-31-24-34 systemd[1]: Started Session 192 of user ubuntu.
+< Jun 28 07:22:26 ip-172-31-24-34 snapd[11966]: storehelpers.go:441: cannot refresh: snap has no updates available: "amazon-ssm-agent", "core"
+< Jun 28 07:22:26 ip-172-31-24-34 snapd[11966]: autorefresh.go:389: auto-refresh: all snaps are up-to-date
+< Jun 28 07:44:56 ip-172-31-24-34 systemd-timesyncd[522]: Network configuration changed, trying to establish connection.
+< Jun 28 07:44:56 ip-172-31-24-34 systemd-timesyncd[522]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).
+< Jun 28 08:13:26 ip-172-31-24-34 kernel: [516393.318585] [UFW BLOCK] IN=eth0 OUT= MAC=02:4a:8f:65:ba:18:02:50:a4:ea:48:6c:08:00 SRC=207.148.74.159 DST=172.31.24.34 LEN=60 TOS=0x00 PREC=0x00 TTL=48 ID=41515 DF PROTO=TCP SPT=51968 DPT=443 WINDOW=29200 RES=0x00 SYN URGP=0 
+< Jun 28 08:13:27 ip-172-31-24-34 kernel: [516394.320894] [UFW BLOCK] IN=eth0 OUT= MAC=02:4a:8f:65:ba:18:02:50:a4:ea:48:6c:08:00 SRC=207.148.74.159 DST=172.31.24.34 LEN=60 TOS=0x00 PREC=0x00 TTL=48 ID=41516 DF PROTO=TCP SPT=51968 DPT=443 WINDOW=29200 RES=0x00 SYN URGP=0 
+< Jun 28 08:13:29 ip-172-31-24-34 kernel: [516396.323059] [UFW BLOCK] IN=eth0 OUT= MAC=02:4a:8f:65:ba:18:02:50:a4:ea:48:6c:08:00 SRC=207.148.74.159 DST=172.31.24.34 LEN=60 TOS=0x00 PREC=0x00 TTL=48 ID=41517 DF PROTO=TCP SPT=51968 DPT=443 WINDOW=29200 RES=0x00 SYN URGP=0 
+< Jun 28 08:13:33 ip-172-31-24-34 kernel: [516400.330276] [UFW BLOCK] IN=eth0 OUT= MAC=02:4a:8f:65:ba:18:02:50:a4:ea:48:6c:08:00 SRC=207.148.74.159 DST=172.31.24.34 LEN=60 TOS=0x00 PREC=0x00 TTL=48 ID=41518 DF PROTO=TCP SPT=51968 DPT=443 WINDOW=29200 RES=0x00 SYN URGP=0 
+< Jun 28 08:14:55 ip-172-31-24-34 systemd-timesyncd[522]: Network configuration changed, trying to establish connection.
+< Jun 28 08:14:55 ip-172-31-24-34 systemd-timesyncd[522]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).
+< Jun 28 08:17:01 ip-172-31-24-34 CRON[13684]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+< Jun 28 08:44:54 ip-172-31-24-34 systemd-timesyncd[522]: Network configuration changed, trying to establish connection.
+< Jun 28 08:44:54 ip-172-31-24-34 systemd-timesyncd[522]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).
+< Jun 28 08:49:29 ip-172-31-24-34 systemd[1]: Starting Daily apt download activities...
+< Jun 28 08:49:30 ip-172-31-24-34 systemd-resolved[701]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+< Jun 28 08:49:30 ip-172-31-24-34 systemd-resolved[701]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+< Jun 28 08:49:40 ip-172-31-24-34 systemd[1]: Started Daily apt download activities.
+< Jun 28 09:02:14 ip-172-31-24-34 kernel: [519321.320341] [UFW BLOCK] IN=eth0 OUT= MAC=02:4a:8f:65:ba:18:02:50:a4:ea:48:6c:08:00 SRC=185.248.162.170 DST=172.31.24.34 LEN=40 TOS=0x00 PREC=0x00 TTL=236 ID=54321 PROTO=TCP SPT=53149 DPT=443 WINDOW=65535 RES=0x00 SYN URGP=0 
+< Jun 28 09:06:29 ip-172-31-24-34 systemd[1]: Starting Cleanup of Temporary Directories...
+< Jun 28 09:06:29 ip-172-31-24-34 systemd[1]: Started Cleanup of Temporary Directories.
+< Jun 28 09:14:53 ip-172-31-24-34 systemd-timesyncd[522]: Network configuration changed, trying to establish connection.
+< Jun 28 09:14:54 ip-172-31-24-34 systemd-timesyncd[522]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).
+< Jun 28 09:17:01 ip-172-31-24-34 CRON[14065]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+< Jun 28 09:35:42 ip-172-31-24-34 systemd[1]: Stopping User Manager for UID 1000...
+< Jun 28 09:35:42 ip-172-31-24-34 systemd[12243]: Stopped target Default.
+< Jun 28 09:35:42 ip-172-31-24-34 systemd[12243]: Stopped target Basic System.
+< Jun 28 09:35:42 ip-172-31-24-34 systemd[12243]: Stopped target Sockets.
+< Jun 28 09:35:42 ip-172-31-24-34 systemd[12243]: Closed GnuPG cryptographic agent and passphrase cache (access for web browsers).
+< Jun 28 09:35:42 ip-172-31-24-34 systemd[12243]: Closed GnuPG cryptographic agent and passphrase cache (restricted).
+< Jun 28 09:35:42 ip-172-31-24-34 systemd[12243]: Closed GnuPG cryptographic agent and passphrase cache.
+< Jun 28 09:35:42 ip-172-31-24-34 systemd[12243]: Closed GnuPG cryptographic agent (ssh-agent emulation).
+< Jun 28 09:35:42 ip-172-31-24-34 systemd[12243]: Stopped target Timers.
+< Jun 28 09:35:42 ip-172-31-24-34 systemd[12243]: Stopped target Paths.
+< Jun 28 09:35:42 ip-172-31-24-34 systemd[12243]: Closed GnuPG network certificate management daemon.
+< Jun 28 09:35:42 ip-172-31-24-34 systemd[12243]: Reached target Shutdown.
+< Jun 28 09:35:42 ip-172-31-24-34 systemd[12243]: Starting Exit the Session...
+< Jun 28 09:35:42 ip-172-31-24-34 systemd[12243]: Received SIGRTMIN+24 from PID 14069 (kill).
+< Jun 28 09:35:42 ip-172-31-24-34 systemd[1]: user@1000.service: Killing process 14069 (kill) with signal SIGKILL.
+< Jun 28 09:35:42 ip-172-31-24-34 systemd[1]: Stopped User Manager for UID 1000.
+< Jun 28 09:35:42 ip-172-31-24-34 systemd[1]: Removed slice User Slice of ubuntu.
+< Jun 28 09:44:52 ip-172-31-24-34 systemd-timesyncd[522]: Network configuration changed, trying to establish connection.
+< Jun 28 09:44:52 ip-172-31-24-34 systemd-timesyncd[522]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).
+< Jun 28 10:13:52 ip-172-31-24-34 systemd[1]: Created slice User Slice of ubuntu.
+< Jun 28 10:13:52 ip-172-31-24-34 systemd[1]: Starting User Manager for UID 1000...
+< Jun 28 10:13:52 ip-172-31-24-34 systemd[1]: Started Session 195 of user ubuntu.
+< Jun 28 10:13:52 ip-172-31-24-34 systemd[14076]: Reached target Timers.
+< Jun 28 10:13:52 ip-172-31-24-34 systemd[14076]: Reached target Paths.
+< Jun 28 10:13:52 ip-172-31-24-34 systemd[14076]: Listening on GnuPG cryptographic agent and passphrase cache (restricted).
+< Jun 28 10:13:52 ip-172-31-24-34 systemd[14076]: Listening on GnuPG network certificate management daemon.
+< Jun 28 10:13:52 ip-172-31-24-34 systemd[14076]: Listening on GnuPG cryptographic agent and passphrase cache.
+< Jun 28 10:13:52 ip-172-31-24-34 systemd[14076]: Listening on GnuPG cryptographic agent (ssh-agent emulation).
+< Jun 28 10:13:52 ip-172-31-24-34 systemd[14076]: Listening on GnuPG cryptographic agent and passphrase cache (access for web browsers).
+< Jun 28 10:13:52 ip-172-31-24-34 systemd[14076]: Reached target Sockets.
+< Jun 28 10:13:52 ip-172-31-24-34 systemd[14076]: Reached target Basic System.
+< Jun 28 10:13:52 ip-172-31-24-34 systemd[1]: Started User Manager for UID 1000.
+< Jun 28 10:13:52 ip-172-31-24-34 systemd[14076]: Reached target Default.
+< Jun 28 10:13:52 ip-172-31-24-34 systemd[14076]: Startup finished in 25ms.
+< Jun 28 10:14:51 ip-172-31-24-34 systemd-timesyncd[522]: Network configuration changed, trying to establish connection.
+< Jun 28 10:14:51 ip-172-31-24-34 systemd-timesyncd[522]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).
+< Jun 28 10:17:01 ip-172-31-24-34 CRON[14238]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+---
+> Jun 27 06:45:22 ip-172-31-24-34 systemd-timesyncd[522]: Network configuration changed, trying to establish connection.
+> Jun 27 06:45:22 ip-172-31-24-34 systemd-timesyncd[522]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).
+> Jun 27 06:45:29 ip-172-31-24-34 systemd[1]: Starting Daily apt upgrade and clean activities...
+> Jun 27 06:45:34 ip-172-31-24-34 systemd[1]: Started Daily apt upgrade and clean activities.
+> Jun 27 07:13:24 ip-172-31-24-34 kernel: [426392.768367] [UFW BLOCK] IN=eth0 OUT= MAC=02:4a:8f:65:ba:18:02:50:a4:ea:48:6c:08:00 SRC=108.178.16.154 DST=172.31.24.34 LEN=40 TOS=0x00 PREC=0x00 TTL=230 ID=54321 PROTO=TCP SPT=45721 DPT=443 WINDOW=65535 RES=0x00 SYN URGP=0 
+> Jun 27 07:15:21 ip-172-31-24-34 systemd-timesyncd[522]: Network configuration changed, trying to establish connection.
+> Jun 27 07:15:21 ip-172-31-24-34 systemd-timesyncd[522]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).
+> Jun 27 07:17:01 ip-172-31-24-34 CRON[10509]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+> Jun 27 07:45:21 ip-172-31-24-34 systemd-timesyncd[522]: Network configuration changed, trying to establish connection.
+> Jun 27 07:45:21 ip-172-31-24-34 systemd-timesyncd[522]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).
+> Jun 27 07:46:53 ip-172-31-24-34 kernel: [428401.988763] [UFW BLOCK] IN=eth0 OUT= MAC=02:4a:8f:65:ba:18:02:50:a4:ea:48:6c:08:00 SRC=200.242.41.158 DST=172.31.24.34 LEN=60 TOS=0x00 PREC=0x00 TTL=35 ID=62997 DF PROTO=TCP SPT=56455 DPT=443 WINDOW=14600 RES=0x00 SYN URGP=0 
+> Jun 27 07:46:53 ip-172-31-24-34 kernel: [428402.100998] [UFW BLOCK] IN=eth0 OUT= MAC=02:4a:8f:65:ba:18:02:50:a4:ea:48:6c:08:00 SRC=200.231.161.20 DST=172.31.24.34 LEN=60 TOS=0x00 PREC=0x00 TTL=36 ID=60860 DF PROTO=TCP SPT=5872 DPT=443 WINDOW=14600 RES=0x00 SYN URGP=0 
+> Jun 27 07:58:04 ip-172-31-24-34 kernel: [429073.226580] [UFW BLOCK] IN=eth0 OUT= MAC=02:4a:8f:65:ba:18:02:50:a4:ea:48:6c:08:00 SRC=198.108.66.109 DST=172.31.24.34 LEN=40 TOS=0x00 PREC=0x00 TTL=230 ID=54321 PROTO=TCP SPT=38249 DPT=443 WINDOW=65535 RES=0x00 SYN URGP=0 
+> Jun 27 08:15:21 ip-172-31-24-34 systemd-timesyncd[522]: Network configuration changed, trying to establish connection.
+> Jun 27 08:15:21 ip-172-31-24-34 systemd-timesyncd[522]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).
+> Jun 27 08:17:01 ip-172-31-24-34 CRON[10641]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+> Jun 27 08:45:20 ip-172-31-24-34 systemd-timesyncd[522]: Network configuration changed, trying to establish connection.
+> Jun 27 08:45:20 ip-172-31-24-34 systemd-timesyncd[522]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).
+> Jun 27 08:56:39 ip-172-31-24-34 systemd[1]: Stopping User Manager for UID 1000...
+> Jun 27 08:56:39 ip-172-31-24-34 systemd[10067]: Stopped target Default.
+> Jun 27 08:56:39 ip-172-31-24-34 systemd[10067]: Stopped target Basic System.
+> Jun 27 08:56:39 ip-172-31-24-34 systemd[10067]: Stopped target Timers.
+> Jun 27 08:56:39 ip-172-31-24-34 systemd[10067]: Stopped target Paths.
+> Jun 27 08:56:39 ip-172-31-24-34 systemd[10067]: Stopped target Sockets.
+> Jun 27 08:56:39 ip-172-31-24-34 systemd[10067]: Closed GnuPG cryptographic agent (ssh-agent emulation).
+> Jun 27 08:56:39 ip-172-31-24-34 systemd[10067]: Closed GnuPG cryptographic agent and passphrase cache (access for web browsers).
+> Jun 27 08:56:39 ip-172-31-24-34 systemd[10067]: Closed GnuPG cryptographic agent and passphrase cache (restricted).
+> Jun 27 08:56:39 ip-172-31-24-34 systemd[10067]: Closed GnuPG cryptographic agent and passphrase cache.
+> Jun 27 08:56:39 ip-172-31-24-34 systemd[10067]: Closed GnuPG network certificate management daemon.
+> Jun 27 08:56:39 ip-172-31-24-34 systemd[10067]: Reached target Shutdown.
+> Jun 27 08:56:39 ip-172-31-24-34 systemd[10067]: Starting Exit the Session...
+> Jun 27 08:56:39 ip-172-31-24-34 systemd[10067]: Received SIGRTMIN+24 from PID 10727 (kill).
+> Jun 27 08:56:39 ip-172-31-24-34 systemd[1]: user@1000.service: Killing process 10727 (kill) with signal SIGKILL.
+> Jun 27 08:56:39 ip-172-31-24-34 systemd[1]: Stopped User Manager for UID 1000.
+> Jun 27 08:56:39 ip-172-31-24-34 systemd[1]: Removed slice User Slice of ubuntu.
+> Jun 27 08:56:48 ip-172-31-24-34 systemd[1]: Created slice User Slice of ubuntu.
+> Jun 27 08:56:48 ip-172-31-24-34 systemd[1]: Starting User Manager for UID 1000...
+> Jun 27 08:56:48 ip-172-31-24-34 systemd[1]: Started Session 158 of user ubuntu.
+> Jun 27 08:56:48 ip-172-31-24-34 systemd[10730]: Listening on GnuPG cryptographic agent and passphrase cache (access for web browsers).
+> Jun 27 08:56:48 ip-172-31-24-34 systemd[10730]: Reached target Timers.
+> Jun 27 08:56:48 ip-172-31-24-34 systemd[10730]: Listening on GnuPG network certificate management daemon.
+> Jun 27 08:56:48 ip-172-31-24-34 systemd[10730]: Listening on GnuPG cryptographic agent and passphrase cache.
+> Jun 27 08:56:48 ip-172-31-24-34 systemd[10730]: Listening on GnuPG cryptographic agent and passphrase cache (restricted).
+> Jun 27 08:56:48 ip-172-31-24-34 systemd[10730]: Reached target Paths.
+> Jun 27 08:56:48 ip-172-31-24-34 systemd[10730]: Listening on GnuPG cryptographic agent (ssh-agent emulation).
+> Jun 27 08:56:48 ip-172-31-24-34 systemd[10730]: Reached target Sockets.
+> Jun 27 08:56:48 ip-172-31-24-34 systemd[10730]: Reached target Basic System.
+> Jun 27 08:56:48 ip-172-31-24-34 systemd[1]: Started User Manager for UID 1000.
+> Jun 27 08:56:48 ip-172-31-24-34 systemd[10730]: Reached target Default.
+> Jun 27 08:56:48 ip-172-31-24-34 systemd[10730]: Startup finished in 26ms.
+> Jun 27 08:59:22 ip-172-31-24-34 kernel: [432750.560871] [UFW BLOCK] IN=eth0 OUT= MAC=02:4a:8f:65:ba:18:02:50:a4:ea:48:6c:08:00 SRC=178.128.197.146 DST=172.31.24.34 LEN=40 TOS=0x00 PREC=0x00 TTL=233 ID=54321 PROTO=TCP SPT=39428 DPT=443 WINDOW=65535 RES=0x00 SYN URGP=0 
+> Jun 27 09:05:29 ip-172-31-24-34 systemd[1]: Starting Cleanup of Temporary Directories...
+> Jun 27 09:05:29 ip-172-31-24-34 systemd[1]: Started Cleanup of Temporary Directories.
+> Jun 27 09:15:20 ip-172-31-24-34 systemd-timesyncd[522]: Network configuration changed, trying to establish connection.
+> Jun 27 09:15:20 ip-172-31-24-34 systemd-timesyncd[522]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).
+> Jun 27 09:17:01 ip-172-31-24-34 CRON[10990]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+> Jun 27 09:17:27 ip-172-31-24-34 kernel: [433836.037952] [UFW BLOCK] IN=eth0 OUT= MAC=02:4a:8f:65:ba:18:02:50:a4:ea:48:6c:08:00 SRC=77.247.110.203 DST=172.31.24.34 LEN=40 TOS=0x08 PREC=0x00 TTL=232 ID=56134 PROTO=TCP SPT=57167 DPT=443 WINDOW=1024 RES=0x00 SYN URGP=0 
+> Jun 27 09:45:20 ip-172-31-24-34 systemd-timesyncd[522]: Network configuration changed, trying to establish connection.
+> Jun 27 09:45:20 ip-172-31-24-34 systemd-timesyncd[522]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).
+> Jun 27 09:58:20 ip-172-31-24-34 systemd[1]: Started Session 161 of user ubuntu.
+> Jun 27 10:09:28 ip-172-31-24-34 systemd[1]: Started Session 162 of user ubuntu.
+> Jun 27 10:12:14 ip-172-31-24-34 snapd[7054]: storehelpers.go:441: cannot refresh: snap has no updates available: "amazon-ssm-agent", "core"
+> Jun 27 10:12:14 ip-172-31-24-34 snapd[7054]: autorefresh.go:389: auto-refresh: all snaps are up-to-date
+> Jun 27 10:15:19 ip-172-31-24-34 systemd-timesyncd[522]: Network configuration changed, trying to establish connection.
+> Jun 27 10:15:19 ip-172-31-24-34 systemd-timesyncd[522]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).
+> Jun 27 10:17:01 ip-172-31-24-34 CRON[11273]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+> Jun 27 10:24:49 ip-172-31-24-34 kernel: [437877.226386] [UFW BLOCK] IN=eth0 OUT= MAC=02:4a:8f:65:ba:18:02:50:a4:ea:48:6c:08:00 SRC=198.108.66.244 DST=172.31.24.34 LEN=40 TOS=0x00 PREC=0x00 TTL=230 ID=54321 PROTO=TCP SPT=45580 DPT=443 WINDOW=65535 RES=0x00 SYN URGP=0 
+> Jun 27 10:45:18 ip-172-31-24-34 systemd-timesyncd[522]: Network configuration changed, trying to establish connection.
+> Jun 27 10:45:18 ip-172-31-24-34 systemd-timesyncd[522]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).
+> Jun 27 11:05:28 ip-172-31-24-34 kernel: [440316.432416] [UFW BLOCK] IN=eth0 OUT= MAC=02:4a:8f:65:ba:18:02:50:a4:ea:48:6c:08:00 SRC=163.172.16.125 DST=172.31.24.34 LEN=52 TOS=0x02 PREC=0x00 TTL=111 ID=22955 DF PROTO=TCP SPT=2518 DPT=443 WINDOW=200 RES=0x00 CWR ECE SYN URGP=0 
+> Jun 27 11:05:31 ip-172-31-24-34 kernel: [440319.441330] [UFW BLOCK] IN=eth0 OUT= MAC=02:4a:8f:65:ba:18:02:50:a4:ea:48:6c:08:00 SRC=163.172.16.125 DST=172.31.24.34 LEN=52 TOS=0x02 PREC=0x00 TTL=111 ID=23027 DF PROTO=TCP SPT=2518 DPT=443 WINDOW=200 RES=0x00 CWR ECE SYN URGP=0 
+> Jun 27 11:05:37 ip-172-31-24-34 kernel: [440325.441780] [UFW BLOCK] IN=eth0 OUT= MAC=02:4a:8f:65:ba:18:02:50:a4:ea:48:6c:08:00 SRC=163.172.16.125 DST=172.31.24.34 LEN=48 TOS=0x00 PREC=0x00 TTL=111 ID=23260 DF PROTO=TCP SPT=2518 DPT=443 WINDOW=200 RES=0x00 SYN URGP=0 
+> Jun 27 11:15:18 ip-172-31-24-34 systemd-timesyncd[522]: Network configuration changed, trying to establish connection.
+> Jun 27 11:15:18 ip-172-31-24-34 systemd-timesyncd[522]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).
+> Jun 27 11:17:01 ip-172-31-24-34 CRON[11283]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+> Jun 27 11:45:17 ip-172-31-24-34 systemd-timesyncd[522]: Network configuration changed, trying to establish connection.
+> Jun 27 11:45:18 ip-172-31-24-34 systemd-timesyncd[522]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).
+> Jun 27 12:15:16 ip-172-31-24-34 systemd-timesyncd[522]: Network configuration changed, trying to establish connection.
+> Jun 27 12:15:17 ip-172-31-24-34 systemd-timesyncd[522]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).
+> Jun 27 12:17:01 ip-172-31-24-34 CRON[11290]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+> Jun 27 12:17:55 ip-172-31-24-34 kernel: [444663.739290] [UFW BLOCK] IN=eth0 OUT= MAC=02:4a:8f:65:ba:18:02:50:a4:ea:48:6c:08:00 SRC=198.108.66.42 DST=172.31.24.34 LEN=40 TOS=0x00 PREC=0x00 TTL=230 ID=54321 PROTO=TCP SPT=51548 DPT=443 WINDOW=65535 RES=0x00 SYN URGP=0 
+> Jun 27 12:45:15 ip-172-31-24-34 systemd-timesyncd[522]: Network configuration changed, trying to establish connection.
+> Jun 27 12:45:16 ip-172-31-24-34 systemd-timesyncd[522]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).
+> Jun 27 13:15:14 ip-172-31-24-34 systemd-timesyncd[522]: Network configuration changed, trying to establish connection.
+> Jun 27 13:15:15 ip-172-31-24-34 systemd-timesyncd[522]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).
+> Jun 27 13:17:01 ip-172-31-24-34 CRON[11299]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+> Jun 27 13:24:03 ip-172-31-24-34 kernel: [448631.930292] [UFW BLOCK] IN=eth0 OUT= MAC=02:4a:8f:65:ba:18:02:50:a4:ea:48:6c:08:00 SRC=163.172.16.125 DST=172.31.24.34 LEN=52 TOS=0x02 PREC=0x00 TTL=111 ID=27719 DF PROTO=TCP SPT=783 DPT=443 WINDOW=200 RES=0x00 CWR ECE SYN URGP=0 
+> Jun 27 13:24:06 ip-172-31-24-34 kernel: [448634.922862] [UFW BLOCK] IN=eth0 OUT= MAC=02:4a:8f:65:ba:18:02:50:a4:ea:48:6c:08:00 SRC=163.172.16.125 DST=172.31.24.34 LEN=52 TOS=0x02 PREC=0x00 TTL=111 ID=27924 DF PROTO=TCP SPT=783 DPT=443 WINDOW=200 RES=0x00 CWR ECE SYN URGP=0 
+> Jun 27 13:24:12 ip-172-31-24-34 kernel: [448640.923273] [UFW BLOCK] IN=eth0 OUT= MAC=02:4a:8f:65:ba:18:02:50:a4:ea:48:6c:08:00 SRC=163.172.16.125 DST=172.31.24.34 LEN=48 TOS=0x00 PREC=0x00 TTL=111 ID=28186 DF PROTO=TCP SPT=783 DPT=443 WINDOW=200 RES=0x00 SYN URGP=0 
+> Jun 27 13:27:14 ip-172-31-24-34 snapd[7054]: storehelpers.go:441: cannot refresh: snap has no updates available: "amazon-ssm-agent", "core"
+> Jun 27 13:27:14 ip-172-31-24-34 snapd[7054]: autorefresh.go:389: auto-refresh: all snaps are up-to-date
+> Jun 27 13:45:13 ip-172-31-24-34 systemd-timesyncd[522]: Network configuration changed, trying to establish connection.
+> Jun 27 13:45:14 ip-172-31-24-34 systemd-timesyncd[522]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).
+> Jun 27 14:03:44 ip-172-31-24-34 systemd[1]: Starting Daily apt download activities...
+> Jun 27 14:03:45 ip-172-31-24-34 systemd-resolved[701]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+> Jun 27 14:03:45 ip-172-31-24-34 systemd-resolved[701]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+> Jun 27 14:03:56 ip-172-31-24-34 systemd[1]: Started Daily apt download activities.
+> Jun 27 14:07:45 ip-172-31-24-34 kernel: [451253.236843] [UFW BLOCK] IN=eth0 OUT= MAC=02:4a:8f:65:ba:18:02:50:a4:ea:48:6c:08:00 SRC=173.255.211.75 DST=172.31.24.34 LEN=40 TOS=0x00 PREC=0x00 TTL=233 ID=54321 PROTO=TCP SPT=58273 DPT=443 WINDOW=65535 RES=0x00 SYN URGP=0 
+> Jun 27 14:12:12 ip-172-31-24-34 systemd[1]: Starting Message of the Day...
+> Jun 27 14:12:13 ip-172-31-24-34 50-motd-news[11671]:  * Ubuntu's Kubernetes 1.14 distributions can bypass Docker and use containerd
+> Jun 27 14:12:13 ip-172-31-24-34 50-motd-news[11671]:    directly, see https://bit.ly/ubuntu-containerd or try it now with
+> Jun 27 14:12:13 ip-172-31-24-34 50-motd-news[11671]:      snap install microk8s --classic
+> Jun 27 14:12:13 ip-172-31-24-34 systemd[1]: Started Message of the Day.
+> Jun 27 14:15:12 ip-172-31-24-34 systemd-timesyncd[522]: Network configuration changed, trying to establish connection.
+> Jun 27 14:15:12 ip-172-31-24-34 systemd-timesyncd[522]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).
+> Jun 27 14:17:01 ip-172-31-24-34 CRON[11724]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+> Jun 27 14:33:30 ip-172-31-24-34 kernel: [452798.813554] [UFW BLOCK] IN=eth0 OUT= MAC=02:4a:8f:65:ba:18:02:50:a4:ea:48:6c:08:00 SRC=128.14.209.237 DST=172.31.24.34 LEN=40 TOS=0x00 PREC=0x00 TTL=233 ID=37860 PROTO=TCP SPT=41644 DPT=443 WINDOW=1024 RES=0x00 SYN URGP=0 
+> Jun 27 14:45:12 ip-172-31-24-34 systemd-timesyncd[522]: Network configuration changed, trying to establish connection.
+> Jun 27 14:45:12 ip-172-31-24-34 systemd-timesyncd[522]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).
+> Jun 27 15:15:10 ip-172-31-24-34 systemd-timesyncd[522]: Network configuration changed, trying to establish connection.
+> Jun 27 15:15:11 ip-172-31-24-34 systemd-timesyncd[522]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).
+> Jun 27 15:17:01 ip-172-31-24-34 CRON[11734]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+> Jun 27 15:36:33 ip-172-31-24-34 systemd[1]: Stopping User Manager for UID 1000...
+> Jun 27 15:36:33 ip-172-31-24-34 systemd[10730]: Stopped target Default.
+> Jun 27 15:36:33 ip-172-31-24-34 systemd[10730]: Stopped target Basic System.
+> Jun 27 15:36:33 ip-172-31-24-34 systemd[10730]: Stopped target Paths.
+> Jun 27 15:36:33 ip-172-31-24-34 systemd[10730]: Stopped target Timers.
+> Jun 27 15:36:33 ip-172-31-24-34 systemd[10730]: Stopped target Sockets.
+> Jun 27 15:36:33 ip-172-31-24-34 systemd[10730]: Closed GnuPG cryptographic agent and passphrase cache.
+> Jun 27 15:36:33 ip-172-31-24-34 systemd[10730]: Closed GnuPG network certificate management daemon.
+> Jun 27 15:36:33 ip-172-31-24-34 systemd[10730]: Closed GnuPG cryptographic agent and passphrase cache (restricted).
+> Jun 27 15:36:33 ip-172-31-24-34 systemd[10730]: Closed GnuPG cryptographic agent and passphrase cache (access for web browsers).
+> Jun 27 15:36:33 ip-172-31-24-34 systemd[10730]: Closed GnuPG cryptographic agent (ssh-agent emulation).
+> Jun 27 15:36:33 ip-172-31-24-34 systemd[10730]: Reached target Shutdown.
+> Jun 27 15:36:33 ip-172-31-24-34 systemd[10730]: Starting Exit the Session...
+> Jun 27 15:36:33 ip-172-31-24-34 systemd[10730]: Received SIGRTMIN+24 from PID 11738 (kill).
+> Jun 27 15:36:33 ip-172-31-24-34 systemd[1]: Stopped User Manager for UID 1000.
+> Jun 27 15:36:33 ip-172-31-24-34 systemd[1]: Removed slice User Slice of ubuntu.
+> Jun 27 15:45:10 ip-172-31-24-34 systemd-timesyncd[522]: Network configuration changed, trying to establish connection.
+> Jun 27 15:45:10 ip-172-31-24-34 systemd-timesyncd[522]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).
+> Jun 27 16:15:09 ip-172-31-24-34 systemd-timesyncd[522]: Network configuration changed, trying to establish connection.
+> Jun 27 16:15:10 ip-172-31-24-34 systemd-timesyncd[522]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).
+> Jun 27 16:17:01 ip-172-31-24-34 CRON[11746]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+> Jun 27 16:20:47 ip-172-31-24-34 kernel: [459235.100256] [UFW BLOCK] IN=eth0 OUT= MAC=02:4a:8f:65:ba:18:02:50:a4:ea:48:6c:08:00 SRC=71.6.143.92 DST=172.31.24.34 LEN=40 TOS=0x00 PREC=0x00 TTL=235 ID=33229 PROTO=TCP SPT=55786 DPT=443 WINDOW=65535 RES=0x00 SYN URGP=0 
+> Jun 27 16:45:08 ip-172-31-24-34 systemd-timesyncd[522]: Network configuration changed, trying to establish connection.
+> Jun 27 16:45:08 ip-172-31-24-34 systemd-timesyncd[522]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).
+> Jun 27 17:00:22 ip-172-31-24-34 kernel: [461610.478716] [UFW BLOCK] IN=eth0 OUT= MAC=02:4a:8f:65:ba:18:02:50:a4:ea:48:6c:08:00 SRC=216.243.31.2 DST=172.31.24.34 LEN=40 TOS=0x00 PREC=0x00 TTL=233 ID=54321 PROTO=TCP SPT=45579 DPT=443 WINDOW=65535 RES=0x00 SYN URGP=0 
+> Jun 27 17:15:08 ip-172-31-24-34 systemd-timesyncd[522]: Network configuration changed, trying to establish connection.
+> Jun 27 17:15:08 ip-172-31-24-34 systemd-timesyncd[522]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).
+> Jun 27 17:17:01 ip-172-31-24-34 CRON[11755]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+> Jun 27 17:45:08 ip-172-31-24-34 systemd-timesyncd[522]: Network configuration changed, trying to establish connection.
+> Jun 27 17:45:08 ip-172-31-24-34 systemd-timesyncd[522]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).
+> Jun 27 17:52:15 ip-172-31-24-34 kernel: [464722.906219] [UFW BLOCK] IN=eth0 OUT= MAC=02:4a:8f:65:ba:18:02:50:a4:ea:48:6c:08:00 SRC=80.82.77.139 DST=172.31.24.34 LEN=44 TOS=0x00 PREC=0x00 TTL=106 ID=20108 PROTO=TCP SPT=20012 DPT=443 WINDOW=19900 RES=0x00 SYN URGP=0 
+> Jun 27 18:15:06 ip-172-31-24-34 systemd-timesyncd[522]: Network configuration changed, trying to establish connection.
+> Jun 27 18:15:07 ip-172-31-24-34 systemd-timesyncd[522]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).
+> Jun 27 18:17:01 ip-172-31-24-34 CRON[11763]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+> Jun 27 18:45:05 ip-172-31-24-34 systemd-timesyncd[522]: Network configuration changed, trying to establish connection.
+> Jun 27 18:45:06 ip-172-31-24-34 systemd-timesyncd[522]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).
+> Jun 27 19:15:06 ip-172-31-24-34 systemd-timesyncd[522]: Network configuration changed, trying to establish connection.
+> Jun 27 19:15:06 ip-172-31-24-34 systemd-timesyncd[522]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).
+> Jun 27 19:17:01 ip-172-31-24-34 CRON[11770]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+> Jun 27 19:45:05 ip-172-31-24-34 systemd-timesyncd[522]: Network configuration changed, trying to establish connection.
+> Jun 27 19:45:05 ip-172-31-24-34 systemd-timesyncd[522]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).
+> Jun 27 19:58:21 ip-172-31-24-34 kernel: [472288.846364] [UFW BLOCK] IN=eth0 OUT= MAC=02:4a:8f:65:ba:18:02:50:a4:ea:48:6c:08:00 SRC=178.128.197.146 DST=172.31.24.34 LEN=40 TOS=0x00 PREC=0x00 TTL=235 ID=54321 PROTO=TCP SPT=60325 DPT=443 WINDOW=65535 RES=0x00 SYN URGP=0 
+> Jun 27 20:15:04 ip-172-31-24-34 systemd-timesyncd[522]: Network configuration changed, trying to establish connection.
+> Jun 27 20:15:04 ip-172-31-24-34 systemd-timesyncd[522]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).
+> Jun 27 20:17:01 ip-172-31-24-34 CRON[11778]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+> Jun 27 20:42:03 ip-172-31-24-34 kernel: [474911.194548] [UFW BLOCK] IN=eth0 OUT= MAC=02:4a:8f:65:ba:18:02:50:a4:ea:48:6c:08:00 SRC=185.10.68.152 DST=172.31.24.34 LEN=40 TOS=0x00 PREC=0x00 TTL=233 ID=53829 PROTO=TCP SPT=43000 DPT=443 WINDOW=1024 RES=0x00 SYN URGP=0 
+> Jun 27 20:45:04 ip-172-31-24-34 systemd-timesyncd[522]: Network configuration changed, trying to establish connection.
+> Jun 27 20:45:04 ip-172-31-24-34 systemd-timesyncd[522]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).
+> Jun 27 20:47:44 ip-172-31-24-34 systemd[1]: Starting Daily apt download activities...
+> Jun 27 20:47:45 ip-172-31-24-34 systemd[1]: Started Daily apt download activities.
+> Jun 27 21:15:04 ip-172-31-24-34 systemd-timesyncd[522]: Network configuration changed, trying to establish connection.
+> Jun 27 21:15:05 ip-172-31-24-34 systemd-timesyncd[522]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).
+> Jun 27 21:17:01 ip-172-31-24-34 CRON[11854]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+> Jun 27 21:45:05 ip-172-31-24-34 systemd-timesyncd[522]: Network configuration changed, trying to establish connection.
+> Jun 27 21:45:05 ip-172-31-24-34 systemd-timesyncd[522]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).
+> Jun 27 22:15:04 ip-172-31-24-34 systemd-timesyncd[522]: Network configuration changed, trying to establish connection.
+> Jun 27 22:15:05 ip-172-31-24-34 systemd-timesyncd[522]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).
+> Jun 27 22:17:01 ip-172-31-24-34 CRON[11861]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+> Jun 27 22:45:03 ip-172-31-24-34 systemd-timesyncd[522]: Network configuration changed, trying to establish connection.
+> Jun 27 22:45:03 ip-172-31-24-34 systemd-timesyncd[522]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).
+> Jun 27 22:52:14 ip-172-31-24-34 snapd[7054]: storehelpers.go:441: cannot refresh snap "amazon-ssm-agent": snap has no updates available
+> Jun 27 22:52:22 ip-172-31-24-34 systemd[1]: Reloading.
+> Jun 27 22:52:22 ip-172-31-24-34 systemd[1]: Mounting Mount unit for core, revision 7270...
+> Jun 27 22:52:22 ip-172-31-24-34 systemd[1]: Mounted Mount unit for core, revision 7270.
+> Jun 27 22:52:23 ip-172-31-24-34 kernel: [482730.448919] kauditd_printk_skb: 1 callbacks suppressed
+> Jun 27 22:52:23 ip-172-31-24-34 kernel: [482730.448921] audit: type=1400 audit(1561675943.058:35): apparmor="STATUS" operation="profile_load" profile="unconfined" name="/snap/core/7270/usr/lib/snapd/snap-confine" pid=11949 comm="apparmor_parser"
+> Jun 27 22:52:23 ip-172-31-24-34 kernel: [482730.449422] audit: type=1400 audit(1561675943.058:36): apparmor="STATUS" operation="profile_load" profile="unconfined" name="/snap/core/7270/usr/lib/snapd/snap-confine//mount-namespace-capture-helper" pid=11949 comm="apparmor_parser"
+> Jun 27 22:52:23 ip-172-31-24-34 kernel: [482730.553734] audit: type=1400 audit(1561675943.162:37): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="snap.core.hook.configure" pid=11951 comm="apparmor_parser"
+> Jun 27 22:52:23 ip-172-31-24-34 kernel: [482730.558504] audit: type=1400 audit(1561675943.170:38): apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="snap-update-ns.core" pid=11953 comm="apparmor_parser"
+> Jun 27 22:52:23 ip-172-31-24-34 snapd[7054]: daemon.go:611: gracefully waiting for running hooks
+> Jun 27 22:52:23 ip-172-31-24-34 snapd[7054]: daemon.go:613: done waiting for running hooks
+> Jun 27 22:52:23 ip-172-31-24-34 systemd[1]: snapd.service: Service hold-off time over, scheduling restart.
+> Jun 27 22:52:23 ip-172-31-24-34 systemd[1]: snapd.service: Scheduled restart job, restart counter is at 2.
+> Jun 27 22:52:23 ip-172-31-24-34 systemd[1]: Stopped Snappy daemon.
+> Jun 27 22:52:23 ip-172-31-24-34 systemd[1]: Starting Snappy daemon...
+> Jun 27 22:52:23 ip-172-31-24-34 snapd[11966]: AppArmor status: apparmor is enabled and all features are available
+> Jun 27 22:52:24 ip-172-31-24-34 kernel: [482731.961975] audit: type=1400 audit(1561675944.574:39): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="/snap/core/7270/usr/lib/snapd/snap-confine" pid=12016 comm="apparmor_parser"
+> Jun 27 22:52:24 ip-172-31-24-34 kernel: [482731.962189] audit: type=1400 audit(1561675944.574:40): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="/snap/core/7270/usr/lib/snapd/snap-confine//mount-namespace-capture-helper" pid=12016 comm="apparmor_parser"
+> Jun 27 22:52:24 ip-172-31-24-34 kernel: [482731.967938] audit: type=1400 audit(1561675944.578:41): apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="snap-update-ns.core" pid=12018 comm="apparmor_parser"
+> Jun 27 22:52:24 ip-172-31-24-34 kernel: [482731.969735] audit: type=1400 audit(1561675944.578:42): apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="snap.core.hook.configure" pid=12019 comm="apparmor_parser"
+> Jun 27 22:52:24 ip-172-31-24-34 kernel: [482732.022418] audit: type=1400 audit(1561675944.634:43): apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="snap-update-ns.amazon-ssm-agent" pid=12030 comm="apparmor_parser"
+> Jun 27 22:52:24 ip-172-31-24-34 kernel: [482732.024097] audit: type=1400 audit(1561675944.634:44): apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="snap.amazon-ssm-agent.amazon-ssm-agent" pid=12031 comm="apparmor_parser"
+> Jun 27 22:52:24 ip-172-31-24-34 snapd[11966]: AppArmor status: apparmor is enabled and all features are available
+> Jun 27 22:52:24 ip-172-31-24-34 snapd[11966]: daemon.go:379: started snapd/2.39.3 (series 16; classic) ubuntu/18.04 (amd64) linux/4.15.0-1041-aws.
+> Jun 27 22:52:24 ip-172-31-24-34 systemd[1]: Started Snappy daemon.
+> Jun 27 22:52:25 ip-172-31-24-34 systemd[1]: Reloading.
+> Jun 27 22:52:26 ip-172-31-24-34 snapd[11966]: storehelpers.go:441: cannot refresh snap "core": snap has no updates available
+> Jun 27 23:15:02 ip-172-31-24-34 systemd-timesyncd[522]: Network configuration changed, trying to establish connection.
+> Jun 27 23:15:02 ip-172-31-24-34 systemd-timesyncd[522]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).
+> Jun 27 23:17:01 ip-172-31-24-34 CRON[12090]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+> Jun 27 23:29:18 ip-172-31-24-34 kernel: [484945.703042] [UFW BLOCK] IN=eth0 OUT= MAC=02:4a:8f:65:ba:18:02:50:a4:ea:48:6c:08:00 SRC=209.17.96.226 DST=172.31.24.34 LEN=44 TOS=0x08 PREC=0x20 TTL=230 ID=60778 PROTO=TCP SPT=62964 DPT=443 WINDOW=1024 RES=0x00 SYN URGP=0 
+> Jun 27 23:45:02 ip-172-31-24-34 systemd-timesyncd[522]: Network configuration changed, trying to establish connection.
+> Jun 27 23:45:02 ip-172-31-24-34 systemd-timesyncd[522]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).
+> Jun 27 23:50:01 ip-172-31-24-34 CRON[12096]: (root) CMD (/script/logger.sh > /dev/null 2>&1)
+}SEPARATOR
+ufwtemp:{
+92,103d91
+< Jun 28 02:25:56 ip-172-31-24-34 kernel: [495543.232336] [UFW BLOCK] IN=eth0 OUT= MAC=02:4a:8f:65:ba:18:02:50:a4:ea:48:6c:08:00 SRC=88.80.189.24 DST=172.31.24.34 LEN=40 TOS=0x00 PREC=0x00 TTL=232 ID=16028 PROTO=TCP SPT=48527 DPT=443 WINDOW=1024 RES=0x00 SYN URGP=0 
+< Jun 28 03:04:13 ip-172-31-24-34 kernel: [497840.756753] [UFW BLOCK] IN=eth0 OUT= MAC=02:4a:8f:65:ba:18:02:50:a4:ea:48:6c:08:00 SRC=139.162.125.159 DST=172.31.24.34 LEN=40 TOS=0x00 PREC=0x00 TTL=238 ID=54321 PROTO=TCP SPT=42797 DPT=443 WINDOW=65535 RES=0x00 SYN URGP=0 
+< Jun 28 03:58:57 ip-172-31-24-34 kernel: [501124.515370] [UFW BLOCK] IN=eth0 OUT= MAC=02:4a:8f:65:ba:18:02:50:a4:ea:48:6c:08:00 SRC=123.207.107.199 DST=172.31.24.34 LEN=52 TOS=0x00 PREC=0x00 TTL=105 ID=18421 DF PROTO=TCP SPT=54777 DPT=443 WINDOW=8192 RES=0x00 CWR ECE SYN URGP=0 
+< Jun 28 04:41:13 ip-172-31-24-34 kernel: [503660.808668] [UFW BLOCK] IN=eth0 OUT= MAC=02:4a:8f:65:ba:18:02:50:a4:ea:48:6c:08:00 SRC=184.105.247.238 DST=172.31.24.34 LEN=40 TOS=0x00 PREC=0x00 TTL=236 ID=54321 PROTO=TCP SPT=39564 DPT=443 WINDOW=65535 RES=0x00 SYN URGP=0 
+< Jun 28 06:29:42 ip-172-31-24-34 kernel: [510169.017161] [UFW BLOCK] IN=eth0 OUT= MAC=02:4a:8f:65:ba:18:02:50:a4:ea:48:6c:08:00 SRC=93.113.125.89 DST=172.31.24.34 LEN=40 TOS=0x00 PREC=0x00 TTL=230 ID=27552 PROTO=TCP SPT=44444 DPT=443 WINDOW=1024 RES=0x00 SYN URGP=0 
+< Jun 28 06:45:17 ip-172-31-24-34 kernel: [511104.069416] [UFW BLOCK] IN=eth0 OUT= MAC=02:4a:8f:65:ba:18:02:50:a4:ea:48:6c:08:00 SRC=104.248.80.197 DST=172.31.24.34 LEN=40 TOS=0x00 PREC=0x00 TTL=234 ID=54321 PROTO=TCP SPT=52146 DPT=443 WINDOW=65535 RES=0x00 SYN URGP=0 
+< Jun 28 06:55:14 ip-172-31-24-34 kernel: [511701.114901] [UFW BLOCK] IN=eth0 OUT= MAC=02:4a:8f:65:ba:18:02:50:a4:ea:48:6c:08:00 SRC=45.79.106.170 DST=172.31.24.34 LEN=40 TOS=0x00 PREC=0x00 TTL=235 ID=54321 PROTO=TCP SPT=53489 DPT=443 WINDOW=65535 RES=0x00 SYN URGP=0 
+< Jun 28 08:13:26 ip-172-31-24-34 kernel: [516393.318585] [UFW BLOCK] IN=eth0 OUT= MAC=02:4a:8f:65:ba:18:02:50:a4:ea:48:6c:08:00 SRC=207.148.74.159 DST=172.31.24.34 LEN=60 TOS=0x00 PREC=0x00 TTL=48 ID=41515 DF PROTO=TCP SPT=51968 DPT=443 WINDOW=29200 RES=0x00 SYN URGP=0 
+< Jun 28 08:13:27 ip-172-31-24-34 kernel: [516394.320894] [UFW BLOCK] IN=eth0 OUT= MAC=02:4a:8f:65:ba:18:02:50:a4:ea:48:6c:08:00 SRC=207.148.74.159 DST=172.31.24.34 LEN=60 TOS=0x00 PREC=0x00 TTL=48 ID=41516 DF PROTO=TCP SPT=51968 DPT=443 WINDOW=29200 RES=0x00 SYN URGP=0 
+< Jun 28 08:13:29 ip-172-31-24-34 kernel: [516396.323059] [UFW BLOCK] IN=eth0 OUT= MAC=02:4a:8f:65:ba:18:02:50:a4:ea:48:6c:08:00 SRC=207.148.74.159 DST=172.31.24.34 LEN=60 TOS=0x00 PREC=0x00 TTL=48 ID=41517 DF PROTO=TCP SPT=51968 DPT=443 WINDOW=29200 RES=0x00 SYN URGP=0 
+< Jun 28 08:13:33 ip-172-31-24-34 kernel: [516400.330276] [UFW BLOCK] IN=eth0 OUT= MAC=02:4a:8f:65:ba:18:02:50:a4:ea:48:6c:08:00 SRC=207.148.74.159 DST=172.31.24.34 LEN=60 TOS=0x00 PREC=0x00 TTL=48 ID=41518 DF PROTO=TCP SPT=51968 DPT=443 WINDOW=29200 RES=0x00 SYN URGP=0 
+< Jun 28 09:02:14 ip-172-31-24-34 kernel: [519321.320341] [UFW BLOCK] IN=eth0 OUT= MAC=02:4a:8f:65:ba:18:02:50:a4:ea:48:6c:08:00 SRC=185.248.162.170 DST=172.31.24.34 LEN=40 TOS=0x00 PREC=0x00 TTL=236 ID=54321 PROTO=TCP SPT=53149 DPT=443 WINDOW=65535 RES=0x00 SYN URGP=0 
+}SEPARATOR

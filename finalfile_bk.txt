@@ -1,0 +1,95 @@
+*START*
+
+*******************alternativestemp
+412,429d411
+< Jun 27 08:17:01 ip-172-31-24-34 CRON[10640]: pam_unix(cron:session): session opened for user root by (uid=0)
+< Jun 27 08:17:01 ip-172-31-24-34 CRON[10640]: pam_unix(cron:session): session closed for user root
+< Jun 27 08:56:39 ip-172-31-24-34 sshd[10065]: pam_unix(sshd:session): session closed for user ubuntu
+< Jun 27 08:56:39 ip-172-31-24-34 su[10194]: pam_unix(su:session): session closed for user root
+< Jun 27 08:56:39 ip-172-31-24-34 sudo: pam_unix(sudo:session): session closed for user root
+< Jun 27 08:56:39 ip-172-31-24-34 systemd-logind[826]: Removed session 152.
+< Jun 27 08:56:48 ip-172-31-24-34 sshd[10728]: Accepted publickey for ubuntu from 111.93.169.90 port 55961 ssh2: RSA SHA256:56LSrLL7YDOn+gHvamzhlv5l4yp8YWk0VEbgx5rdCzM
+< Jun 27 08:56:48 ip-172-31-24-34 sshd[10728]: pam_unix(sshd:session): session opened for user ubuntu by (uid=0)
+< Jun 27 08:56:48 ip-172-31-24-34 systemd: pam_unix(systemd-user:session): session opened for user ubuntu by (uid=0)
+< Jun 27 08:56:48 ip-172-31-24-34 systemd-logind[826]: New session 158 of user ubuntu.
+< Jun 27 08:58:00 ip-172-31-24-34 sudo:   ubuntu : TTY=pts/0 ; PWD=/tmp ; USER=root ; COMMAND=/bin/su
+< Jun 27 08:58:00 ip-172-31-24-34 sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+< Jun 27 08:58:00 ip-172-31-24-34 su[10866]: Successful su for root by root
+< Jun 27 08:58:00 ip-172-31-24-34 su[10866]: + /dev/pts/0 root:root
+< Jun 27 08:58:00 ip-172-31-24-34 su[10866]: pam_unix(su:session): session opened for user root by ubuntu(uid=0)
+< Jun 27 08:58:00 ip-172-31-24-34 su[10866]: pam_systemd(su:session): Cannot create session: Already running in a session
+< Jun 27 09:17:01 ip-172-31-24-34 CRON[10989]: pam_unix(cron:session): session opened for user root by (uid=0)
+< Jun 27 09:17:01 ip-172-31-24-34 CRON[10989]: pam_unix(cron:session): session closed for user root
+*******************authtemp
+379,386d378
+< Jun 27 08:15:21 ip-172-31-24-34 systemd-timesyncd[522]: Network configuration changed, trying to establish connection.
+< Jun 27 08:15:21 ip-172-31-24-34 systemd-timesyncd[522]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).
+< Jun 27 08:17:01 ip-172-31-24-34 CRON[10641]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+< Jun 27 08:45:20 ip-172-31-24-34 systemd-timesyncd[522]: Network configuration changed, trying to establish connection.
+< Jun 27 08:45:20 ip-172-31-24-34 systemd-timesyncd[522]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).
+< Jun 27 09:15:20 ip-172-31-24-34 systemd-timesyncd[522]: Network configuration changed, trying to establish connection.
+< Jun 27 09:15:20 ip-172-31-24-34 systemd-timesyncd[522]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).
+< Jun 27 09:17:01 ip-172-31-24-34 CRON[10990]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+*******************crontemp
+*******************dpkgtemp
+84,86d83
+< Jun 27 07:58:04 ip-172-31-24-34 kernel: [429073.226580] [UFW BLOCK] IN=eth0 OUT= MAC=02:4a:8f:65:ba:18:02:50:a4:ea:48:6c:08:00 SRC=198.108.66.109 DST=172.31.24.34 LEN=40 TOS=0x00 PREC=0x00 TTL=230 ID=54321 PROTO=TCP SPT=38249 DPT=443 WINDOW=65535 RES=0x00 SYN URGP=0 
+< Jun 27 08:59:22 ip-172-31-24-34 kernel: [432750.560871] [UFW BLOCK] IN=eth0 OUT= MAC=02:4a:8f:65:ba:18:02:50:a4:ea:48:6c:08:00 SRC=178.128.197.146 DST=172.31.24.34 LEN=40 TOS=0x00 PREC=0x00 TTL=233 ID=54321 PROTO=TCP SPT=39428 DPT=443 WINDOW=65535 RES=0x00 SYN URGP=0 
+< Jun 27 09:17:27 ip-172-31-24-34 kernel: [433836.037952] [UFW BLOCK] IN=eth0 OUT= MAC=02:4a:8f:65:ba:18:02:50:a4:ea:48:6c:08:00 SRC=77.247.110.203 DST=172.31.24.34 LEN=40 TOS=0x08 PREC=0x00 TTL=232 ID=56134 PROTO=TCP SPT=57167 DPT=443 WINDOW=1024 RES=0x00 SYN URGP=0 
+*******************kerntemp
+*******************ng_accesstemp
+*******************ng_errortemp
+13,57d12
+< Jun 27 07:58:04 ip-172-31-24-34 kernel: [429073.226580] [UFW BLOCK] IN=eth0 OUT= MAC=02:4a:8f:65:ba:18:02:50:a4:ea:48:6c:08:00 SRC=198.108.66.109 DST=172.31.24.34 LEN=40 TOS=0x00 PREC=0x00 TTL=230 ID=54321 PROTO=TCP SPT=38249 DPT=443 WINDOW=65535 RES=0x00 SYN URGP=0 
+< Jun 27 08:15:21 ip-172-31-24-34 systemd-timesyncd[522]: Network configuration changed, trying to establish connection.
+< Jun 27 08:15:21 ip-172-31-24-34 systemd-timesyncd[522]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).
+< Jun 27 08:17:01 ip-172-31-24-34 CRON[10641]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+< Jun 27 08:45:20 ip-172-31-24-34 systemd-timesyncd[522]: Network configuration changed, trying to establish connection.
+< Jun 27 08:45:20 ip-172-31-24-34 systemd-timesyncd[522]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).
+< Jun 27 08:56:39 ip-172-31-24-34 systemd[1]: Stopping User Manager for UID 1000...
+< Jun 27 08:56:39 ip-172-31-24-34 systemd[10067]: Stopped target Default.
+< Jun 27 08:56:39 ip-172-31-24-34 systemd[10067]: Stopped target Basic System.
+< Jun 27 08:56:39 ip-172-31-24-34 systemd[10067]: Stopped target Timers.
+< Jun 27 08:56:39 ip-172-31-24-34 systemd[10067]: Stopped target Paths.
+< Jun 27 08:56:39 ip-172-31-24-34 systemd[10067]: Stopped target Sockets.
+< Jun 27 08:56:39 ip-172-31-24-34 systemd[10067]: Closed GnuPG cryptographic agent (ssh-agent emulation).
+< Jun 27 08:56:39 ip-172-31-24-34 systemd[10067]: Closed GnuPG cryptographic agent and passphrase cache (access for web browsers).
+< Jun 27 08:56:39 ip-172-31-24-34 systemd[10067]: Closed GnuPG cryptographic agent and passphrase cache (restricted).
+< Jun 27 08:56:39 ip-172-31-24-34 systemd[10067]: Closed GnuPG cryptographic agent and passphrase cache.
+< Jun 27 08:56:39 ip-172-31-24-34 systemd[10067]: Closed GnuPG network certificate management daemon.
+< Jun 27 08:56:39 ip-172-31-24-34 systemd[10067]: Reached target Shutdown.
+< Jun 27 08:56:39 ip-172-31-24-34 systemd[10067]: Starting Exit the Session...
+< Jun 27 08:56:39 ip-172-31-24-34 systemd[10067]: Received SIGRTMIN+24 from PID 10727 (kill).
+< Jun 27 08:56:39 ip-172-31-24-34 systemd[1]: user@1000.service: Killing process 10727 (kill) with signal SIGKILL.
+< Jun 27 08:56:39 ip-172-31-24-34 systemd[1]: Stopped User Manager for UID 1000.
+< Jun 27 08:56:39 ip-172-31-24-34 systemd[1]: Removed slice User Slice of ubuntu.
+< Jun 27 08:56:48 ip-172-31-24-34 systemd[1]: Created slice User Slice of ubuntu.
+< Jun 27 08:56:48 ip-172-31-24-34 systemd[1]: Starting User Manager for UID 1000...
+< Jun 27 08:56:48 ip-172-31-24-34 systemd[1]: Started Session 158 of user ubuntu.
+< Jun 27 08:56:48 ip-172-31-24-34 systemd[10730]: Listening on GnuPG cryptographic agent and passphrase cache (access for web browsers).
+< Jun 27 08:56:48 ip-172-31-24-34 systemd[10730]: Reached target Timers.
+< Jun 27 08:56:48 ip-172-31-24-34 systemd[10730]: Listening on GnuPG network certificate management daemon.
+< Jun 27 08:56:48 ip-172-31-24-34 systemd[10730]: Listening on GnuPG cryptographic agent and passphrase cache.
+< Jun 27 08:56:48 ip-172-31-24-34 systemd[10730]: Listening on GnuPG cryptographic agent and passphrase cache (restricted).
+< Jun 27 08:56:48 ip-172-31-24-34 systemd[10730]: Reached target Paths.
+< Jun 27 08:56:48 ip-172-31-24-34 systemd[10730]: Listening on GnuPG cryptographic agent (ssh-agent emulation).
+< Jun 27 08:56:48 ip-172-31-24-34 systemd[10730]: Reached target Sockets.
+< Jun 27 08:56:48 ip-172-31-24-34 systemd[10730]: Reached target Basic System.
+< Jun 27 08:56:48 ip-172-31-24-34 systemd[1]: Started User Manager for UID 1000.
+< Jun 27 08:56:48 ip-172-31-24-34 systemd[10730]: Reached target Default.
+< Jun 27 08:56:48 ip-172-31-24-34 systemd[10730]: Startup finished in 26ms.
+< Jun 27 08:59:22 ip-172-31-24-34 kernel: [432750.560871] [UFW BLOCK] IN=eth0 OUT= MAC=02:4a:8f:65:ba:18:02:50:a4:ea:48:6c:08:00 SRC=178.128.197.146 DST=172.31.24.34 LEN=40 TOS=0x00 PREC=0x00 TTL=233 ID=54321 PROTO=TCP SPT=39428 DPT=443 WINDOW=65535 RES=0x00 SYN URGP=0 
+< Jun 27 09:05:29 ip-172-31-24-34 systemd[1]: Starting Cleanup of Temporary Directories...
+< Jun 27 09:05:29 ip-172-31-24-34 systemd[1]: Started Cleanup of Temporary Directories.
+< Jun 27 09:15:20 ip-172-31-24-34 systemd-timesyncd[522]: Network configuration changed, trying to establish connection.
+< Jun 27 09:15:20 ip-172-31-24-34 systemd-timesyncd[522]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).
+< Jun 27 09:17:01 ip-172-31-24-34 CRON[10990]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+< Jun 27 09:17:27 ip-172-31-24-34 kernel: [433836.037952] [UFW BLOCK] IN=eth0 OUT= MAC=02:4a:8f:65:ba:18:02:50:a4:ea:48:6c:08:00 SRC=77.247.110.203 DST=172.31.24.34 LEN=40 TOS=0x08 PREC=0x00 TTL=232 ID=56134 PROTO=TCP SPT=57167 DPT=443 WINDOW=1024 RES=0x00 SYN URGP=0 
+*******************systemp
+73,75d72
+< Jun 27 07:58:04 ip-172-31-24-34 kernel: [429073.226580] [UFW BLOCK] IN=eth0 OUT= MAC=02:4a:8f:65:ba:18:02:50:a4:ea:48:6c:08:00 SRC=198.108.66.109 DST=172.31.24.34 LEN=40 TOS=0x00 PREC=0x00 TTL=230 ID=54321 PROTO=TCP SPT=38249 DPT=443 WINDOW=65535 RES=0x00 SYN URGP=0 
+< Jun 27 08:59:22 ip-172-31-24-34 kernel: [432750.560871] [UFW BLOCK] IN=eth0 OUT= MAC=02:4a:8f:65:ba:18:02:50:a4:ea:48:6c:08:00 SRC=178.128.197.146 DST=172.31.24.34 LEN=40 TOS=0x00 PREC=0x00 TTL=233 ID=54321 PROTO=TCP SPT=39428 DPT=443 WINDOW=65535 RES=0x00 SYN URGP=0 
+< Jun 27 09:17:27 ip-172-31-24-34 kernel: [433836.037952] [UFW BLOCK] IN=eth0 OUT= MAC=02:4a:8f:65:ba:18:02:50:a4:ea:48:6c:08:00 SRC=77.247.110.203 DST=172.31.24.34 LEN=40 TOS=0x08 PREC=0x00 TTL=232 ID=56134 PROTO=TCP SPT=57167 DPT=443 WINDOW=1024 RES=0x00 SYN URGP=0 
+*******************ufwtemp
+
+*END*
