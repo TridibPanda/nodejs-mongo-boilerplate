@@ -47,6 +47,7 @@ exports.createUser = async function (req, res) {
     let user = new User({
         firstName:req.body.firstName,
         lastName:req.body.lastName,
+        img:req.body.img,
         dob:req.body.dob,
         email:req.body.email,
         mobile:req.body.mobile,
@@ -59,6 +60,7 @@ exports.createUser = async function (req, res) {
         res.send({
             Email:user.email,
             Mobile:user.mobile,
+            img:user.img,
             message: "User created successfully."
         });
     }
@@ -66,6 +68,7 @@ exports.createUser = async function (req, res) {
         res.status(400).send(err);
     }
 };
+
 
 //Update a user from the database
 exports.update = async function(req,res){
