@@ -3,6 +3,7 @@ const multer = require('multer');
 const upload = multer();
 var bcrypt = require('bcrypt');
 var jwt = require('jsonwebtoken');
+var nodemailer = require('nodemailer');
 
 
 
@@ -57,6 +58,33 @@ exports.createUser = async function (req, res) {
     try{
         // save the user in the database
         const saveUser = await user.save();
+
+         //send email using nodemailer
+        var transporter = nodemailer.createTransport({
+        service: 'gmail',
+        auth: {
+          user: 'nits.tridib@gmail.com',//enter your email(testing purpose)
+          pass: 'email password' //enter your email password(testing purpose) && https://myaccount.google.com/lesssecureapps(Gmail Permission)
+                                //Less secure app access => On
+        }
+      });
+
+      var mailOptions = {
+        from: 'nits.tridib@gmail.com',// enter auth user email
+        to: user.email,
+        subject: "Tridib",
+        html: "Tridib Panda"
+      };
+
+      transporter.sendMail(mailOptions, function (error, info) {
+        if (error) {
+          console.log(error);
+        }
+        else {
+          console.log('Email sent ' + info.responses);
+        }
+      });
+
         res.send({
             Email:user.email,
             Mobile:user.mobile,
